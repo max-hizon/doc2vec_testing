@@ -1,0 +1,81 @@
+Not long after the new coronavirus first surfaced last December, an ambitious prediction was made: A vaccine would be available within 12 to 18 months, and it would stop the pandemic.
+
+Despite serious challenges — how to mass manufacture, supply and deliver a vaccine worldwide — the first prong of that wish could well be fulfilled. Eight vaccine candidates are undergoing large-scale efficacy tests, so-called Phase 3 trials, and results are expected by the end of this year or early 2021.
+
+But even if one, or more, of those efforts succeeds, a vaccine might not end the pandemic. This is partly because we seem to be focused at the moment on developing the kind of vaccine that may well prevent Covid-19, the disease, but that wouldn’t do enough to stop the transmission of SARS-CoV-2, the virus that causes Covid-19.
+
+Doctors usually explain vaccines to patients and the parents of young children by describing how those protect us from a particular disease: An attenuated form of a pathogen, or just a bit of it, is inoculated into the human body in order to trigger its immune response; having learned to fight off that pathogen once, the body will remember how to fend off the disease should it be exposed to the same pathogen later.
+
+A vaccine’s ability to forestall a disease is also how vaccine developers typically design — and how regulators typically evaluate — Phase 3 clinical trials for vaccine candidates.
+
+Yet the best vaccines also serve another, critical, function: They block a pathogen’s transmission from one person to another. And this result, often called an “indirect” effect of vaccination, is no less important than the direct effect of preventing the disease caused by that pathogen. In fact, during a pandemic, it probably is even more important.
+
+That’s what we should be focusing on right now. And yet we are not.
+
+Stopping a virus’s transmission reduces the entire population’s overall exposure to the virus. It protects people who may be too frail to respond to a vaccine, who do not have access to the vaccine, who refuse to be immunized and whose immune response might wane over time.
+
+The benefits of this approach have been demonstrated with other pathogens and other diseases.
+
+The Haemophilus influenzae type B (Hib) conjugate vaccines were designed, and licensed in the early 1990s, to prevent young children from developing serious infections such as meningitis. Soon enough an unexpected and welcome side benefit became clear: The vaccine interrupted the bacterium’s transmission; after its introduction, occurrences of the disease dropped also in groups that had not been vaccinated.
+
+The human papillomavirus (HPV) vaccines were developed to prevent cervical cancer and genital warts in women. They have proved immensely effective among the women to whom they are administered — and up to 50 percent effective at preventing genital warts among unvaccinated men, according to a 2017 study of the health insurance records for 2005-10 of some nine million people in Germany.
+
+To understand why this is the case, remember what it takes for you to become ill from a pathogen, be it a virus or a bacterium.
+
+First, you are exposed to it. Then it infects you. While you are infected, you may infect others. In some cases, the infection develops into a disease. In other cases, it doesn’t: Though infected, you remain asymptomatic.
+
+One way that vaccines can interrupt a pathogen’s transmission cycle is by preventing the pathogen from causing an infection in the first place. This is how many common vaccines — against measles, mumps, rubella and chickenpox — operate.
+
+Other vaccines — like the ones against meningococcal meningitis or pneumonia brought on by the pneumococcus bacterium — can block the transmission of the pathogen by interfering with the infection or by decreasing either the quantity of pathogen that the infected patient sheds or the duration of the shedding period.
+
+Some recipients of the pneumococcal pneumonia vaccine simply don’t get infected with the bacterium; others do get infected and carry the bacterium in their nose, but in smaller amounts and for shorter periods of time than if they had not been vaccinated.
+
+Much still needs to be learned about precisely how such mechanisms work — what part do antibodies play? T cells? — but the upshot from these examples is this: Vaccines can block the transmission of viruses or bacteria, and they can do so in several ways.
+
+Given the communitywide benefits of accomplishing that, especially in a pandemic, current vaccine-development efforts should prioritize finding vaccines that limit the transmission of SARS-CoV-2.
+
+The U.S. Food and Drug Administration has stated that preventing a SARS-CoV-2 infection is in itself a sufficient endpoint for the Phase 3 trials of vaccine candidates — that it is an acceptable alternative goal to preventing the development of Covid-19. The World Health Organization has said that “shedding/transmission” is as well.
+
+These guidelines are an important signal, especially considering that the F.D.A. has never approved a vaccine based on its effects on infection alone; instead, the agency has focused exclusively on the vaccine’s effectiveness at disease prevention.
+
+And yet vaccine developers do not seem to be heeding this new call.
+
+Based on our review of the Phase 3 tests listed at ClinicalTrials.gov, a database of trials conducted around the world, the primary goal in each of these studies is to reduce the occurrence of Covid-19.
+
+Four of the six Covid-19 vaccine trials for which information is available say they will also evaluate the incidence of SARS-CoV-2 infections among subjects — but only as an ancillary outcome.
+
+This approach is shortsighted: One cannot assume that a vaccine that prevents the development of Covid-19 in a patient will necessarily also limit the risk that the patient will transmit SARS-CoV-2 to other people.
+
+For example, a study of young Australian teenagers published in the New England Journal of Medicine early this year found that the vaccine used to prevent the diseases caused by the B strain of meningococcus in children and teenagers “had no discernible effect” on the presence of the relevant bacterium in the throats of vaccinated subjects displaying no symptoms.
+
+The inactivated polio vaccine prevalent in many developed countries today, known as IPV, is highly effective at protecting individuals against polio. But it is far less effective at reducing viral shedding, at least in fecal excretions, than the oral vaccine, known as OPV, used more widely in other parts of the world.
+
+In the late 1990s, the United States, like other wealthy countries, replaced with an acellular vaccine the killed-whole-cell pertussis vaccine it had previously used against whooping cough. A resurgence of whooping cough already was underway, but it accelerated then: Although the new vaccine was better than the previous one at protecting the inoculated from the disease, it was less good at blocking transmission of the bacterium that causes the cough.
+
+Conversely, a vaccine that, let’s say, offers older adults only modest protection against developing a disease might nonetheless be very effective, when administered to healthy adults or children, at curbing a pathogen’s transmission in a population overall.
+
+This is the case with the pneumococcal conjugate vaccine. A 2015 study published in the New England Journal of Medicine found that the vaccine reduced the occurrence of pneumonia in inoculated adults age 65 or older by only about 45 percent. Yet, according to a study last year by researchers at the Centers for Disease Control and Prevention and Stanford University, the immunization of infants and toddlers reduced ninefold the incidence of pneumococcal disease in the elderly.
+
+With some vaccines, for some diseases, the indirect benefits of vaccination can be greater than the direct effects.
+
+Based on these precedents, it could be a grave mistake for vaccine developers now to hew only, or too closely, to the single-minded goal of preventing Covid-19, the disease.
+
+Doing so could mean privileging vaccines that don’t block the transmission of SARS-CoV-2 at all, or abandoning vaccines that block transmission well enough but that, by prevailing standards, are deemed to not forestall enough the development of Covid-19.
+
+That, in turn, would essentially mean that the only way to ever get rid of SARS-CoV-2 would be near-universal immunization — a herculean task.
+
+Focusing on how to block the coronavirus’s transmission is a much more efficient approach.
+
+This is why randomized controlled trials of the vaccines currently under consideration should include regular monitoring for the presence of SARS-CoV-2 in study subjects. The goal should be to evaluate whether the subjects acquire the infection at all, and for how long, as well as how abundantly they shed and spread the virus, when and how.
+
+Studying these issues could also help cast a light on the role of so-called superspreading events in this pandemic.
+
+More and more research suggests that a very small number of instances — gatherings at restaurants or bars, choir rehearsal, funerals, church services — might account for a vast majority of the cases of infection overall.
+
+But the discussion about those instances has tended to focus on their settings and circumstances, such as the presence of crowds in confined spaces for extended periods of time.
+
+Yet the question of whether some infected individuals, perhaps especially at certain stages of infection, are particularly infectious — whether they, themselves, are superspreaders — also needs to be studied head-on: When does contagiousness peak in whom and why? And can vaccines modify any of that?
+
+The best vaccines don’t just protect the inoculated from getting sick from a disease. They also protect everyone else from even contracting the pathogen that causes that disease.
+
+Preventing the very transmission of SARS-CoV-2, no less than stopping it from turning into Covid-19, should be a main priority of current efforts to develop the vaccines to end this pandemic.

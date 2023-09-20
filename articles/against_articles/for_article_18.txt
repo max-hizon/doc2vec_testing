@@ -1,0 +1,168 @@
+The Pfizer-BioNTech vaccine is one of several vaccines that can protect against COVID-19. Research indicates that the vaccine has high efficacy in people aged 16 and over.
+
+This comes from the New England Journal of Medicine.
+
+The Pfizer vaccine for COVID-19 is available in the United States and other countries. Side effects are typically mild and last a few daysTrusted Source.
+
+Read on to learn more about the Pfizer vaccine, including how it works, ingredients, effectiveness, and safety.
+
+The Pfizer vaccine is a shot that may protect people from developing COVID-19. Its brand name is Comirnaty.
+
+Pfizer Inc., one of the world’s largest biopharmaceutical companies, and BioNTech, a German biotechnology company, created this vaccine.
+
+According to the Centers for Disease Control and Prevention (CDC), people receive this vaccine in two doses, with the second dose coming about 21 daysTrusted Source after the first. However, sometimes, a person may not receive the second dose until 6 weeks after the first.
+
+How does the Pfizer vaccine work?
+The vaccine works by introducing a molecule to cells, known as messenger RNA (mRNA). This molecule teaches cells to make a protein from the virus that causes COVID-19, which is SARS-CoV-2.
+
+The body detects this protein and triggers an immune response. This creates antibodies, as well as longer lasting immunity that can fight off future SARS-CoV-2 infections.
+
+Learn more about how mRNA vaccines work.
+
+What does the vaccine contain?
+The Food and Drug Administration (FDA)Trusted Source state that the Pfizer vaccine contains:
+
+mRNA
+lipids ((4-hydroxybutyl)azanediyl)bis(hexane-6,1-diyl)bis(2-hexyldecanoate), 2[(polyethylene glycol)-2000]-N,N-ditetradecylacetamide, 1,2-Distearoyl-sn-glycero-3-phosphocholine, and cholesterol)
+monobasic potassium phosphate and dibasic sodium phosphate dehydrate, which act as buffers
+potassium chloride and sodium chloride, which are types of salt
+sucrose, or table sugar
+It does not contain allergens, such as eggs, latex, or preservatives.
+
+Who can have the Pfizer vaccine?
+The FDA has authorized the use of the Pfizer vaccine to prevent COVID-19 in people aged 12 years of age and olderTrusted Source.
+
+Most adults will be eligible for this vaccine. However, some may need to avoid it for safety reasons.
+
+The Centers for Disease Control and Prevention (CDC)Trusted Source advise that people do not get the Pfizer vaccine if they have had a severe or immediate allergic reaction to any ingredient in an mRNA COVID-19 vaccine, e.g., to polyethylene glycol (PEG) or polysorbate.
+
+The CDC define an immediate allergic reaction as a reaction that takes place within 4 hours of exposure, causing symptoms such as:
+
+hives
+swelling
+wheezing or difficulty breathing
+People who have experienced allergic reactions to other vaccines should speak with a healthcare professional before getting a COVID-19 vaccine.
+
+People should also speak with a doctor before getting the Pfizer vaccine if they have:
+
+other allergies
+a fever
+a bleeding disorder or take medications to thin the blood
+a compromised immune system or take medication that affects the immune system
+are pregnant, planning to become pregnant, or are breastfeeding
+have already received another COVID-19 vaccine
+
+How effective is the Pfizer vaccine?
+When considering the impact of the Pfizer vaccine, it is important to distinguish between its efficacy and its effectiveness.
+
+“Efficacy” refers to the vaccine’s performance under ideal and controlled circumstances, such as in clinical trials. “Effectiveness” refers to its performance in real-world situations.
+
+Efficacy
+There is strong evidence from clinical trials that the Pfizer vaccine has a high level of efficacy.
+
+A trial involving 43,548 participants, funded by BioNTech and Pfizer, reported that 2 doses of their vaccine confer 95% protection against COVID-19 in people aged 16 years and older.
+
+Effectiveness
+This result was consistent across age groups, sexes, races, ethnicities, and body weights, as well as those with underlying medical conditions and people who have already had a SARS-CoV-2 infection.
+
+A large study on the Pfizer vaccine involving about 1.2 million people in Israel supports the findings of clinical trials. It indicates that two doses of the vaccine reduce symptomatic cases of COVID-19 by 94% across all age groups after 7 days of receiving the second dose. The vaccine also reduces severe illness by 92%.
+
+What about new variants?
+In some parts of the world, new variants of the SARS-CoV-2 virus have emerged. While concerning, this is normal because viruses evolve over time.
+
+It is likely that the Pfizer vaccine will still be effective against current variants. A preview of a paper that looks at one particular mutation, present in variants first identified in the United Kingdom and South Africa, suggests that the Pfizer vaccine still works against them.
+
+Safety
+Research to date indicates that the Pfizer vaccine is safe for those who are eligible for it. Its manufacturers developed the vaccine according to international safety standards, and the FDATrusted Source and the European Medicines Agency (EMA) have authorized it.
+
+Side effects
+Some people may experience temporary side effects after receiving the Pfizer vaccine, which may last a few daysTrusted Source. These include:
+
+pain and swelling around the injection site
+chills
+fever
+a headache
+tiredness
+Usually, these side effects indicate that the vaccine is working and are signs that the immune system is responding to it.
+
+Less commonlyTrusted Source, people experience:
+
+muscle pain
+joint pain
+nausea
+swollen lymph nodes
+allergic reactions
+Side effects are more commonTrusted Source after the second dose than the first dose.
+
+If a person experiences side effects after vaccination, they can take steps to care for themselves. Cool compresses and exercising the arm may ease pain and swelling while staying cool, and drinking fluids can help with a fever.
+
+People can also discuss trying over-the-counter (OTC) pain medications, such as acetaminophen, with a doctor or pharmacist.
+
+In rare cases, people can experience a severe allergic reaction up to 60 minutesTrusted Source after receiving the vaccine. Signs and symptoms include:
+
+breathing difficulties
+dizziness
+rapid heartbeat
+rash all over the body
+swelling of the face and throat
+weakness
+Other rare side effectsTrusted Source following vaccination can include myocarditis (inflammation of the heart muscle) and pericarditis (inflammation of the tissue surrounding the heart). These side effects are more likely following the second dose of the vaccine.
+
+If a person experiences any of the above symptoms, dial 911 or call a local emergency department immediately.
+
+Safety during pregnancy
+Based on how mRNA vaccines work, the CDCTrusted Source do not believe they pose a specific risk during pregnancy. However, there is currently limited evidence to confirm this.
+
+Animal studies on the effects of the Pfizer vaccine found no direct or indirect risks to pregnancy or the health of the fetus. Another mRNA vaccine by Moderna had similar results.
+
+In February 2021, Pfizer and BioNTech announced they would begin human trials, testing their COVID-19 vaccine on 4,000 healthy pregnant adult females. These trials are still ongoing.
+
+If someone is unsure whether they should get the Pfizer vaccine due to being pregnant, they can discuss their concerns with a doctor. Some may be more comfortable waiting for the results of human trials, while others may want to get a vaccine as soon as they can.
+
+COVID-19 does pose an increased risk of severe illness during pregnancy.
+
+Learn more about how COVID-19 affects pregnancy here.
+
+Comparison to other vaccines
+Currently, people can access three COVID-19 vaccines in the U.S.: The Pfizer vaccine, the Moderna vaccine, or the Janssen’s Johnson & Johnson vaccine.
+
+The Moderna and Pfizer vaccines have similar efficacy rates in clinical trials and involve receiving two shots several weeks apart. The Janssen vaccine is a single-dose shot.
+
+Large-scale clinical trials are underway for two other COVID-19 vaccines from:
+
+AstraZeneca
+Novavax
+The AstraZeneca vaccination has an efficacy of 63.09%Trusted Source against symptomatic COVID-19. It requires two doses, given 8–12 weeks apart. A longer interval in between doses has associations with greater efficacy.
+
+Novavax reported that their COVID-19 vaccine candidate shows 89.3% efficacy in U.K. phase three trials. Research indicates that the vaccine efficacy might be 86%Trusted Source against the variant first identified in the U.K., and 60% against the variant first identified in South Africa.
+
+Impact
+The main benefit of getting a COVID-19 vaccine is protection from the disease, its symptoms, and its complications.
+
+COVID-19 has a wide range of effects on the body. For some, it is a mild short-term illness. For others, it is severe and can be life threatening. Some people also go on to experience long COVID, which can last for weeks or months.
+
+People who have received a vaccine may also be less likelyTrusted Source to transmit the virus that causes the COVID-19 to other people, reducing the risk of others getting sick, particularly vulnerable people.
+
+Mass vaccination may also allow people to see their friends and family or go back to work sooner. However, no COVID-19 vaccine is 100% effective, so there is still some risk for those who receive a vaccine. Additionally, at present, scientists are unclear how long protection from vaccines lasts.
+
+Even if a person has received two doses, they still needTrusted Source to follow safety guidelines for their local area, such as:
+
+physical distancing
+hand washing
+wearing a mask
+
+What happens if you do not get a vaccine?
+Getting a vaccine is not compulsory. However, people who do not get a vaccine are at increased risk of developing COVID-19 than those who receive one.
+
+Some people are unable to get a COVID-19 vaccine for health reasons. Other people may choose not to.
+
+The FDA Trusted Source state that it is an individual choice as to whether someone does or does not receive a COVID-19 vaccine. Choosing not to receive a vaccine will not impact their standard of medical care in the U.S.
+
+People who do not get a vaccine should take care to follow safety guidelines to reduce the risk.
+
+Summary
+The Pfizer vaccine for the novel coronavirus, SARS-CoV-2, appears to be effective in clinical trials and real-world situations. Current evidence shows it is safe for most adults.
+
+Common side effects include chills, fever, tiredness, headache, and pain or swelling at the injection site. This should only last a few days.
+
+People can discuss different vaccines and their safety with a healthcare professional. People still need to wear masks, practice physical distancing, and follow hygiene guidelines to prevent transmission until advised otherwise.

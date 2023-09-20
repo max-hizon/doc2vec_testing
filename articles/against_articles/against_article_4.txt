@@ -1,0 +1,63 @@
+Health authorities are investigating the case of a Florida doctor who died from an unusually severe blood disorder 16 days after receiving the Pfizer coronavirus vaccine.
+
+Dr. Gregory Michael, a 56-year-old obstetrician and gynecologist in Miami Beach, received the vaccine at Mount Sinai Medical Center on Dec. 18 and died 16 days later from a brain hemorrhage, his wife, Heidi Neckelmann, wrote in a Facebook post.
+
+Shortly after receiving the vaccine, Dr. Michael developed an extremely serious form of a condition known as acute immune thrombocytopenia, which prevented his blood from clotting properly.
+
+In a statement, Pfizer, the maker of the vaccine, said it was “actively investigating” the case, “but we don’t believe at this time that there is any direct connection to the vaccine.”
+
+“There have been no related safety signals identified in our clinical trials, the post-marketing experience thus far,” or with the technology used to make the vaccine, the company said. “Our immediate thoughts are with the bereaved family.”
+
+About nine million people in the United States have received at least one shot of either the Pfizer or Moderna coronavirus vaccine, the two authorized in the United States. So far, serious problems reported were 29 cases of anaphylaxis, a severe allergic reaction. None were reported as fatal. Many people have had other side effects like sore arms, fatigue, headache or fever, which are usually transient.
+
+Local and federal agencies are investigating Dr. Michael’s death. Several experts said the case was highly unusual but could have been a severe reaction to the vaccine.
+
+The Florida Department of Health referred Dr. Michael’s death to the Centers for Disease Control and Prevention for investigation. Kristen Nordlund, a C.D.C. spokeswoman, said in a statement that the agency would “evaluate the situation as more information becomes available and provide timely updates on what is known and any necessary actions.”
+
+The Miami-Dade County medical examiner’s office is still investigating Dr. Michael’s death and has not yet completed an autopsy report or identified a cause of death, Darren J. Caprara, a spokesman, said.
+
+Mount Sinai Medical Center declined to comment, citing patient privacy laws.
+
+According to Ms. Neckelmann, three days after her husband got the vaccine, he developed tiny reddish spots, or petechiae, caused by bleeding under the skin of his hands and feet. Recognizing the spots as a danger sign, he went to the emergency room. A blood test showed the level of his platelets, a blood component essential for clotting, to be at zero, she wrote, and he was admitted into the intensive care unit with a diagnosis of acute immune thrombocytopenia.
+
+Dr. Michael had “absolutely no medical issues” and no underlying conditions, Ms. Neckelmann, who declined to be interviewed by phone as she made funeral preparations, said in a text message to The New York Times. “Never had any reaction to any medication nor vaccines.” Her husband, she added, was a healthy, active person who did not smoke or take any medication.
+
+“He was an avid deep sea fisherman and mostly a family man,” she said. “He never got Covid because he used an N95 mask from the beginning of the pandemic. He was adamant in protecting his family and patients.”
+
+He also believed in the promise of the vaccine, she wrote on Facebook.
+
+For two weeks, doctors tried to raise Dr. Michael’s platelet count, and “experts from all over the country were involved in his care,” she wrote on Facebook.
+
+“He was conscious and energetic through the whole process, but two days before a last-resort surgery, he got a hemorrhagic stroke caused by the lack of platelets that took his life in a matter of minutes,” she wrote.
+
+The planned surgery would have removed Dr. Michael’s spleen, an operation that can sometimes help treat the clotting disorder.
+
+Ms. Neckelmann said she told her husband’s story to make people aware of the vaccine’s possible “side effects,” and “that it is not good for everyone, and in this case destroyed a beautiful life, a perfect family, and has affected so many people in the community.”
+
+Dr. Jerry L. Spivak, an expert on blood disorders at Johns Hopkins University, who was not involved in Dr. Michael’s care, said that based on Ms. Neckelmann’s description, “I think it is a medical certainty that the vaccine was related.”
+
+“This is going to be very rare,” said Dr. Spivak, an emeritus professor of medicine. But he added, “It happened and it could happen again.”
+
+Even so, he said, it should not stop people from being vaccinated.
+
+The condition Dr. Michael developed, acute immune thrombocytopenia, occurs when the immune system attacks a patient’s own platelets, or attacks the cells in the bone marrow that makes platelets. Covid itself can cause the condition in some patients.
+
+A long list of medicines, including quinine and certain antibiotics, can also cause the disorder in some people. Dr. Spivak described the reactions as “idiosyncratic,” meaning they strike certain individuals without rhyme or reason, possibly based on unknown genetic traits, and there is no way to predict if someone is susceptible.
+
+“If you vaccinate enough people, things will happen,” he said.
+
+Vaccines stimulate the immune system, and in theory could, in rare cases, cause it to mistakenly identify some of a patient’s own cells as enemy invaders that should be destroyed.
+
+Dr. Spivak said several things made the vaccine the mostly likely suspect in Dr. Michael’s case. The disorder came on quickly after the shot, and was so severe that it made his platelet count “rocket” down — a pattern like that in some cases brought on by drugs such as quinine. In addition, Dr. Michael was healthy and young, compared with most people who develop chronic forms of the ailment from other causes. Finally, most patients — 70 percent — are women. A sudden case in a man, especially a relatively young, healthy one, suggests a recent trigger.
+
+Dr. Paul Offit, an expert in vaccines and infectious diseases at Children’s Hospital of Philadelphia, said that the measles vaccine and measles itself have been known to cause this same clotting problem, but it is usually transient and not serious. It occurs in about one of every 25,000 measles shots, in both children and adults, he said.
+
+Regarding Dr. Michael’s case, Dr. Offit said: “I don’t know what this is. We’ll keep our eyes open and see if it happens to anybody else.” He added, “Right now we’re guessing. It’s an association in time, but not necessarily a causal association.”
+
+Dr. William Schaffner, an infectious disease expert at Vanderbilt University, said that although the platelet disorder had been linked to certain drugs, its connection to vaccines was “a big question mark.”
+
+He noted that millions of vaccinations of many types are given each year, and clusters of this platelet disorder do not occur.
+
+Dr. Spivak said that there were multiple therapies for immune thrombocytopenia, and that knowing more about Dr. Michael’s case might help doctors devise better treatment plans in case the disorder occurs in other people after they are vaccinated.
+
+Alain Delaquérière contributed to this article.

@@ -1,0 +1,963 @@
+‘This is a very historic milestone, a monumental step forward,” President Biden declared last week after the Food and Drug Administration authorized Pfizer and Moderna vaccines for toddlers. “The United States is now the first country in the world to offer safe and effective Covid-19 vaccines for children as young as 6 months old.”
+
+In fact, we don’t know if the vaccines are safe and effective. The rushed FDA action was based on extremely weak evidence. It’s one thing to show regulatory flexibility during an emergency. But for children, Covid isn’t an emergency. The FDA bent its standards to an unusual degree and brushed aside troubling evidence that warrants more investigation.
+
+As it initially did for adults, the FDA granted the Pfizer and Moderna vaccines for toddlers an emergency-use authorization allowing the agency to expedite access for products that “prevent serious or life-threatening diseases or conditions.” While adult Covid vaccines clearly met this standard in late 2020, the toddler vaccines don’t.
+
+Only 209 kids between 6 months and 4 years old have died from Covid—about 0.02% of all virus deaths in the U.S. About half as many toddlers were hospitalized with Covid between October 2020 and September 2021 as were hospitalized with the flu during the previous winter. More children were hospitalized during the Omicron wave last winter, but hospitalization rates were still roughly in line with the 2019-20 flu season. None of the 5,400 or so toddlers in Moderna’s trial were hospitalized for Covid. Yet at least 15 were hospitalized for non-Covid infections.
+
+The two children in Pfizer’s trial who got sickest with Covid also tested positive for other viruses. It’s possible that many hospitalizations attributed to Covid this winter were actually instigated or exacerbated by other viruses. Doctors had warned that more “immunologically naive” children were likely to get sick once schools reopened and lockdowns were lifted.
+
+Evidence supporting the efficacy of Moderna and Pfizer vaccines in adults, at least at the time they were approved, was also far stronger. Both trials were large and robust enough to demonstrate 95% efficacy against infection with a strong degree of certainty. By contrast, the FDA authorized the vaccines for toddlers based on a comparison of the antibodies they generated to the original Wuhan variant with those in young adults who had received two doses. But two doses offer little if any protection against Omicron infection in adults, and even protection against hospitalization is only around 40% to 60%.
+
+At least Moderna’s trial showed modest efficacy against symptomatic Omicron infection—37% among 2- to 5-year-olds and 51% for those 6 months to 2 years old. Pfizer claimed its vaccine was 80% effective, but this is misleading. For one, Pfizer contravened numerous clinical-trial conventions. Its initial protocol involved only two doses, but this failed to generate the antibody levels required for FDA approval. So Pfizer added a third dose, which the FDA generously allowed. Usually the agency won’t let drugmakers make a course correction when a trial ends in failure.
+
+Pfizer then planned to track at least 21 cases to establish a bare-bones measure of efficacy. By comparison, Moderna tracked more than 250 cases. Yet Pfizer truncated its data collection on April 29—the day after Moderna announced it had submitted its application for emergency-use authorization—even though a mere 10 cases had been recorded after the third dose. It’s hard not to conclude that Pfizer cut corners to avoid getting beaten by Moderna. But as a result too few cases were documented to measure with any degree of confidence Pfizer’s vaccine efficacy. Pfizer nonetheless proclaimed its vaccine was 80% effective. Moderna scientists must be seething. A Pfizer spokesperson says the FDA was more interested in vaccine “immunogenicity” data than efficacy among toddlers and will do another efficacy analysis after more cases accrue.
+
+More troubling, vaccinated toddlers in Pfizer’s trial were more likely to get severely ill with Covid than those who received a placebo. Pfizer claimed most severe cases weren’t “clinically significant,” whatever that means, but this was all the more reason that the FDA should have required a longer follow-up before authorizing the vaccine.
+
+Also worrisome: Most kids who developed multiple infections during the trial were vaccinated. This warranted more investigation, since experimental vaccines for other diseases sometimes increase susceptibility to infection.
+
+Scientists are also discovering that triple-vaccinated adults who were previously infected with the Wuhan variant have a weaker immune response to Omicron, leaving them more susceptible to reinfection. This phenomenon, called “immunological imprinting,” could explain why children who received three Pfizer shots were more likely to get reinfected.
+
+The FDA brushed aside the risk that inoculating infants against a variant no longer circulating could blunt their immune responses to Omicron and its offshoots. There’s a reason vaccine trials usually take a decade. Some steps can be accelerated, but an extended follow-up is often necessary to ensure potential side effects aren’t overlooked.
+
+The FDA standard for approving vaccines in otherwise healthy people, especially children, is supposed to be higher than for drugs that treat the sick. But the FDA conspicuously lowered its standards to approve Covid vaccines for toddlers. Why? Perhaps it felt pressure from the White House as well as anxious parents. White House Covid response coordinator Ashish Jha repeatedly told parents that he expected vaccines for toddlers would be approved and available in June. Recall how Mr. Biden accused Donald Trump of pressuring the FDA to rush Covid vaccine approvals by suggesting they could be available before the November 2020 election.
+
+Mr. Biden’s hypocrisy is hard to stomach. The FDA, to its credit, accelerated Covid treatments and vaccines when they were desperately needed. But children would have been better off had the FDA taken more time to ensure the vaccines really are safe and effective, even if this meant that America wouldn’t be first.
+
+Ms. Finley is a member of the Journal’s editorial board.
+
+The excitement and enthusiasm for a COVID-19 vaccine by the end of 2020 is both palpable and understandable. We all hope for a rapid end to the pandemic and an effective vaccine would be a surefire solution. But there are risks that come with a fast-tracked vaccine delivered end of this year, not the least of which are the risks related to the safety of the vaccine itself.
+
+Telescoping testing timelines and approvals may expose all of us to unnecessary dangers related to the vaccine. While preclinical trials to evaluate the potential safety and efficacy of vaccine candidates are likely to include tens of thousands of patients, it is still unclear whether that number will be large enough and a trial will last long enough to evaluate safety for a drug that would be administered to so many. The US alone plans to vaccinate hundreds of millions of people with the first successful candidate. One serious adverse event per thousand of a vaccine given to 100 million people means harm to 100,000 otherwise healthy people.
+
+Aside from questions of safety that attend any vaccine, there are good reasons to be especially cautious for COVID-19. Some vaccines worsen the consequences of infection rather than protect, a phenomenon called antibody-dependent enhancement (ADE). ADE has been observed in previous attempts to develop coronavirus vaccines. To add to the concern, antibodies typical of ADE are present in the blood of some COVID-19 patients. Such concerns are real. As recently as 2016, Dengavxia, intended to protect children from the dengue virus, increased hospitalizations for children who received the vaccine.
+
+Questions also arise around the efficacy of a potential vaccine. The little we know of the current generation of COVID-19 vaccines raises serious questions regarding their ability to protect people from infection. We know all the candidates tested to date in non-human primates failed to protect any of the monkeys from infection of the nasal passages, the primary route of human infection. Failure to protect entirely from infection fits with all we know about attempts to protect monkeys from two other deadly coronaviruses, those that cause SARS and MERS.
+
+On a brighter note, at least some of the candidate vaccines did raise significant immune responses. How that translates to protection of humans is uncertain though as monkeys do not become noticeably ill or exhibit many of the life-threatening consequences of COVID-19, even when exposed to high doses of the virus via the nose, lung, and rectum simultaneously. As many of the most serious COVID symptoms do not appear until late in the disease course, sometimes four to five weeks following exposure, there is a possibility that we will not have sufficient time to judge efficacy of a new vaccine, even by the lower standard of symptom amelioration.
+
+An effective COVID-19 vaccine also faces several hurdles beyond our control. The older we get the poorer our ability to respond to vaccines. Resistance to vaccination begins early at age 30 and becomes progressively more profound with time. That is especially troubling as those over 60 are the population most at risk. Vaccination of the elderly may sometimes succeed by administering repeated doses and by increasing the potency of the vaccine with powerful adjuvants. But these adjuvants can be especially risky for the very old.
+
+It seems a folly then to rush our way towards a vaccine in 2020 if it is likely to have only limited benefit to the population most in need and may put otherwise healthy people at risk. The risk goes far beyond the dangers a COVID vaccine alone may hold. Public support for vaccines in general is already an issue. Trust in other lifesaving vaccines will be eroded even further if a COVID vaccine goes wrong and many more people—children especially—will be at risk if vaccination rates fall.
+
+Yes, we are all increasingly longing for an end to the outbreak. But a safe vaccine, effective for all those at risk, is worth the wait, especially when we have other solutions in hand. We already know from the experience of countries in Asia that the epidemic can be stopped in its tracks with basic public health measures: widespread testing, contact tracing, and mandatory controlled quarantine—not necessarily in a dismal public health facility as many imagine, but in our own homes with virtual supervision or in a hotel environment. These efforts alone could bring new infections down to almost zero within just weeks.
+
+In addition, I believe it will be possible before the end of this year to protect those most at risk from exposure with combinations of monoclonal antibodies or with truly effective antiviral drugs. These drugs could treat those who were ill and prevent further infection. In addition to pursuing a vaccine within a realistic timeframe, we should also be throwing our weight behind these other types of medical solutions which have historically been much quicker to bring to market safely.
+
+There is no doubt we need an urgent end to the pandemic. Economies around the world are crashing. Governments are piling up trillions of dollars in debt. And, in the US alone, tens of millions are without work or income. But there are still costs that are too great, even when compared to such numbers. When we have solutions to the pandemic in hand we cannot risk the potential lives lost of rushing a COVID vaccine to market. We must hold dear the central dictum of the medical community, first, do no harm. Trust that given the time science will deliver a medical solution in the form of a vaccine or a chemoprophylactic drug treatment, and in the meantime let us immediately implement the public health strategies that we know will work today to drive new infections down to nothing.
+
+Read more about the coronavirus outbreak from Scientific American here. And read coverage from our international network of magazines here.
+
+Executives from four companies in the race to produce a coronavirus vaccine — AstraZeneca, Johnson & Johnson, Moderna Therapeutics and Pfizer — told lawmakers on Tuesday that they are optimistic their products could be ready by the end of 2020 or the beginning of 2021. All four companies are testing vaccines in human clinical trials.
+
+Three of the firms — AstraZeneca, Johnson & Johnson and Moderna — are getting federal funds for their vaccine development efforts. AstraZeneca and Johnson & Johnson pledged to the lawmakers that they would produce hundreds of millions of doses of their vaccines at no profit to themselves. Moderna, however, which has been granted $483 million from the government to develop its product, made no such promise.
+
+“We will not sell it at cost,” said Dr. Stephen Hoge, the president of Moderna.
+
+Many Democratic lawmakers have argued that federal funding for vaccine development should include provisions to guarantee affordability and guard against profiteering.
+
+At the Congressional hearing on Tuesday, some House members raised concerns about Pfizer’s decision to reject federal funds, suggesting it could lead to price-gouging and a lack of transparency.
+
+“We didn’t accept the federal government funding solely for the reason that we wanted to be able to move as quickly as possible with our vaccine candidate into the clinic,” said John Young, Pfizer’s chief business officer.
+
+“We’ll price our potential vaccine consistent with the urgent global health emergency that we’re facing,” Mr. Young said, adding that “a vaccine is meaningless if people are unable to afford it.”
+
+Representative Dr. Raul Ruiz, Democrat of California, also questioned whether failing to address the financial stakes of vaccine development early on could keep these products out of “the hands of the people that need this most.”
+
+“I don’t want to look back, and then have health equity be an afterthought,” Dr. Ruiz said. “It has to be prioritized.”
+
+The hearing held by members of the House energy committee’s oversight panel was punctuated by notes of optimism from executives from each company, several of whom referred to promising early results from studies in people. On Monday, AstraZeneca and Pfizer released data indicating that their vaccines could stimulate strong immune responses with only minor side effects.
+
+Editors’ Picks
+
+‘If I Go Missing’ Folders for the (Very Unlikely) Possibility That You Do
+
+Lily Allen’s Second Act
+
+An Even Better Way to Eat Eggs
+SKIP ADVERTISEMENT
+Still, the actual effectiveness and durability of these responses against the virus have yet to be determined. No vaccine candidates have been proven effective for preventing infection by the coronavirus, or for protecting people from the severe effects of Covid-19, the disease caused by the virus.
+
+Panel members pressed the company executives for a commitment to maintain the highest standards for a vaccine, and not sacrifice quality for the sake of expediency. An ideal vaccine, several committee members stressed, would not only be safe and effective, but also be straightforward enough to manufacture en masse and available to the public at low cost.
+
+“It is possible that a Covid-19 vaccine may become available by the end of this year or early next year,” said Representative Diana DeGette, Democrat of Colorado and the panel’s chairperson. “That’s a rare bit of good news in this harrowing time.”
+
+But, she added, “we must remind ourselves that plenty can still go wrong. And so the anticipated timeline is not guaranteed.”
+
+A fifth contender, Merck, painted a far less rosy picture of the vaccine development landscape. Dr. Julie Gerberding, the company’s executive vice president and chief patient officer, made no promises about when its product would be ready, citing concerns about safety should the process be rushed. “We do not expect to be able to accelerate the safety assessment,” Dr. Gerberding said.
+
+Merck’s chief executive, Kenneth Frazier, has previously cautioned against coronavirus vaccine hype and warned that a hurried approval process could damage prospects for protecting the public.
+
+In a statement released on June 30, the Food and Drug Administration noted that any vaccine candidate vying for approval would need to prevent or ameliorate disease in at least 50 percent of the people who received it. Manufacturers won’t have a good sense of these metrics until the completion of so-called Phase 3 clinical trials, which enroll thousands of participants — some of whom are vaccinated, some of whom aren’t — and track their infection status over the course of multiple months.
+
+Federal approval isn’t the only goal of vaccine development, the executives said. Once this milestone is met, the vaccines will still need to be administered widely and also be accessible to a range of populations particularly those that have been disproportionately affected by the virus. Those would include the elderly, people with underlying medical conditions and Black, Latino and Native Americans.
+
+In written statements to the panel, AstraZeneca, Johnson & Johnson and Pfizer reaffirmed their commitment to diversity in their vaccine development pipelines to ensure that these vulnerable communities will also benefit from their products.
+
+Dr. Macaya Douoguih, who is head of clinical development and medical affairs of Johnson & Johnson’s Janssen Vaccines, said at the hearing that her company would be leveraging its past experience with community outreach, noting the importance of equipping higher-risk populations with accurate information about the disease.
+
+And Dr. Hoge, of Moderna, said that his company is actively enrolling people “representative of the diversity of America” into Phase 3 trials.
+
+The subcommittee also stressed the importance of worldwide distribution of any vaccines proven effective against the coronavirus to ensure global health.
+
+“None of us are safe until all of us are safe,” Mr. Young said.
+
+Carl Zimmer and Noah Weiland contributed to this article.
+
+Health authorities are investigating the case of a Florida doctor who died from an unusually severe blood disorder 16 days after receiving the Pfizer coronavirus vaccine.
+
+Dr. Gregory Michael, a 56-year-old obstetrician and gynecologist in Miami Beach, received the vaccine at Mount Sinai Medical Center on Dec. 18 and died 16 days later from a brain hemorrhage, his wife, Heidi Neckelmann, wrote in a Facebook post.
+
+Shortly after receiving the vaccine, Dr. Michael developed an extremely serious form of a condition known as acute immune thrombocytopenia, which prevented his blood from clotting properly.
+
+In a statement, Pfizer, the maker of the vaccine, said it was “actively investigating” the case, “but we don’t believe at this time that there is any direct connection to the vaccine.”
+
+“There have been no related safety signals identified in our clinical trials, the post-marketing experience thus far,” or with the technology used to make the vaccine, the company said. “Our immediate thoughts are with the bereaved family.”
+
+About nine million people in the United States have received at least one shot of either the Pfizer or Moderna coronavirus vaccine, the two authorized in the United States. So far, serious problems reported were 29 cases of anaphylaxis, a severe allergic reaction. None were reported as fatal. Many people have had other side effects like sore arms, fatigue, headache or fever, which are usually transient.
+
+Local and federal agencies are investigating Dr. Michael’s death. Several experts said the case was highly unusual but could have been a severe reaction to the vaccine.
+
+The Florida Department of Health referred Dr. Michael’s death to the Centers for Disease Control and Prevention for investigation. Kristen Nordlund, a C.D.C. spokeswoman, said in a statement that the agency would “evaluate the situation as more information becomes available and provide timely updates on what is known and any necessary actions.”
+
+The Miami-Dade County medical examiner’s office is still investigating Dr. Michael’s death and has not yet completed an autopsy report or identified a cause of death, Darren J. Caprara, a spokesman, said.
+
+Mount Sinai Medical Center declined to comment, citing patient privacy laws.
+
+According to Ms. Neckelmann, three days after her husband got the vaccine, he developed tiny reddish spots, or petechiae, caused by bleeding under the skin of his hands and feet. Recognizing the spots as a danger sign, he went to the emergency room. A blood test showed the level of his platelets, a blood component essential for clotting, to be at zero, she wrote, and he was admitted into the intensive care unit with a diagnosis of acute immune thrombocytopenia.
+
+Dr. Michael had “absolutely no medical issues” and no underlying conditions, Ms. Neckelmann, who declined to be interviewed by phone as she made funeral preparations, said in a text message to The New York Times. “Never had any reaction to any medication nor vaccines.” Her husband, she added, was a healthy, active person who did not smoke or take any medication.
+
+“He was an avid deep sea fisherman and mostly a family man,” she said. “He never got Covid because he used an N95 mask from the beginning of the pandemic. He was adamant in protecting his family and patients.”
+
+He also believed in the promise of the vaccine, she wrote on Facebook.
+
+For two weeks, doctors tried to raise Dr. Michael’s platelet count, and “experts from all over the country were involved in his care,” she wrote on Facebook.
+
+“He was conscious and energetic through the whole process, but two days before a last-resort surgery, he got a hemorrhagic stroke caused by the lack of platelets that took his life in a matter of minutes,” she wrote.
+
+The planned surgery would have removed Dr. Michael’s spleen, an operation that can sometimes help treat the clotting disorder.
+
+Ms. Neckelmann said she told her husband’s story to make people aware of the vaccine’s possible “side effects,” and “that it is not good for everyone, and in this case destroyed a beautiful life, a perfect family, and has affected so many people in the community.”
+
+Dr. Jerry L. Spivak, an expert on blood disorders at Johns Hopkins University, who was not involved in Dr. Michael’s care, said that based on Ms. Neckelmann’s description, “I think it is a medical certainty that the vaccine was related.”
+
+“This is going to be very rare,” said Dr. Spivak, an emeritus professor of medicine. But he added, “It happened and it could happen again.”
+
+Even so, he said, it should not stop people from being vaccinated.
+
+The condition Dr. Michael developed, acute immune thrombocytopenia, occurs when the immune system attacks a patient’s own platelets, or attacks the cells in the bone marrow that makes platelets. Covid itself can cause the condition in some patients.
+
+A long list of medicines, including quinine and certain antibiotics, can also cause the disorder in some people. Dr. Spivak described the reactions as “idiosyncratic,” meaning they strike certain individuals without rhyme or reason, possibly based on unknown genetic traits, and there is no way to predict if someone is susceptible.
+
+“If you vaccinate enough people, things will happen,” he said.
+
+Vaccines stimulate the immune system, and in theory could, in rare cases, cause it to mistakenly identify some of a patient’s own cells as enemy invaders that should be destroyed.
+
+Dr. Spivak said several things made the vaccine the mostly likely suspect in Dr. Michael’s case. The disorder came on quickly after the shot, and was so severe that it made his platelet count “rocket” down — a pattern like that in some cases brought on by drugs such as quinine. In addition, Dr. Michael was healthy and young, compared with most people who develop chronic forms of the ailment from other causes. Finally, most patients — 70 percent — are women. A sudden case in a man, especially a relatively young, healthy one, suggests a recent trigger.
+
+Dr. Paul Offit, an expert in vaccines and infectious diseases at Children’s Hospital of Philadelphia, said that the measles vaccine and measles itself have been known to cause this same clotting problem, but it is usually transient and not serious. It occurs in about one of every 25,000 measles shots, in both children and adults, he said.
+
+Regarding Dr. Michael’s case, Dr. Offit said: “I don’t know what this is. We’ll keep our eyes open and see if it happens to anybody else.” He added, “Right now we’re guessing. It’s an association in time, but not necessarily a causal association.”
+
+Dr. William Schaffner, an infectious disease expert at Vanderbilt University, said that although the platelet disorder had been linked to certain drugs, its connection to vaccines was “a big question mark.”
+
+He noted that millions of vaccinations of many types are given each year, and clusters of this platelet disorder do not occur.
+
+Dr. Spivak said that there were multiple therapies for immune thrombocytopenia, and that knowing more about Dr. Michael’s case might help doctors devise better treatment plans in case the disorder occurs in other people after they are vaccinated.
+
+Alain Delaquérière contributed to this article.
+
+Two health care workers at the same hospital in Alaska developed concerning reactions just minutes after receiving Pfizer’s coronavirus vaccine this week, including one staff member who was to remain hospitalized until Thursday.
+
+Health officials said that the cases would not disrupt their vaccine rollout plans and that they were sharing the information for the sake of transparency.
+
+The first worker, a middle-aged woman who had no history of allergies, had an anaphylactic reaction that began 10 minutes after receiving the vaccine at Bartlett Regional Hospital in Juneau on Tuesday, a hospital official said. She experienced a rash over her face and torso, shortness of breath and an elevated heart rate.
+
+Dr. Lindy Jones, the hospital’s emergency department medical director, said the worker was first given a shot of epinephrine, a standard treatment for severe allergic reactions. Her symptoms subsided but then re-emerged, and she was treated with steroids and an epinephrine drip.
+
+When doctors tried to stop the drip, her symptoms re-emerged yet again, so the woman was moved to the intensive care unit, observed throughout the night, then weaned off the drip early Wednesday morning, Dr. Jones said.
+
+Dr. Jones had said earlier Wednesday that the woman was set to be discharged in the evening, but the hospital said late Wednesday that she was remaining another night.
+
+The second worker received his shot on Wednesday and developed eye puffiness, lightheadedness and a scratchy throat 10 minutes after the injection, the hospital said in a statement. He was taken to the emergency room and treated with epinephrine, Pepcid and Benadryl, although the hospital said the reaction was not considered anaphylaxis. The worker was back to normal within an hour and released.
+
+The hospital, which had administered 144 total doses as of Wednesday night, said both workers did not want their experiences to have a negative impact on others lining up for the vaccine.
+
+“We have no plans to change our vaccine schedule, dosing or regimen,” Dr. Anne Zink, Alaska’s chief medical officer, said in a statement.
+
+Editors’ Picks
+
+‘If I Go Missing’ Folders for the (Very Unlikely) Possibility That You Do
+
+Lily Allen’s Second Act
+
+An Even Better Way to Eat Eggs
+Although the Pfizer vaccine was shown to be safe and about 95 percent effective in a clinical trial involving 44,000 participants, the Alaska cases will likely intensify concerns about possible side effects. Experts said the developments may prompt calls for tighter guidelines to ensure that recipients were carefully monitored for adverse reactions.
+
+Dr. Paul A. Offit, a vaccine expert and member of an outside advisory panel that recommended the Food and Drug Administration authorize the Pfizer vaccine for emergency use, said the appropriate precautions were already in place. For instance, he said, the requirement that recipients remain in place for 15 minutes after getting the vaccine helped ensure the woman was quickly treated.
+
+“I don’t think this means we should pause” vaccine distribution, he said. “Not at all.” But he said researchers need to figure out “what component of the vaccine is causing this reaction.”
+
+Dr. Jay Butler, a top infectious-disease expert with the Centers for Disease Control and Prevention, said the Alaska situation showed that the monitoring system worked. The agency has recommended that the vaccine be administered in settings that have supplies, including oxygen and epinephrine, to manage anaphylactic reactions.
+
+Millions of Americans are in line to be inoculated with the Pfizer vaccine by the end of the year. As of Wednesday night, it was unclear how many Americans so far have received it. Alex M. Azar II, the health and human services secretary, said his department would be releasing that data “several days or maybe a week into this.”
+
+The Alaska woman’s reaction was believed to be similar to the anaphylactic reactions two health workers in Britain experienced after receiving the Pfizer-BioNTech vaccine last week. Like her, both recovered.
+
+Those cases are expected to come up on Thursday, when F.D.A. scientists are scheduled to meet with the agency’s outside panel of experts to decide whether to recommend that regulators approve Moderna’s Covid-19 vaccine for emergency use.
+
+Although the Moderna and Pfizer-BioNTech vaccines are based on the same type of technology and similar in their ingredients, it is not clear whether an allergic reaction to one would occur with the other. Both consist of genetic material called mRNA encased in a bubble of oily molecules called lipids, although they use different combinations of lipids.
+
+Dr. Offit said that in both vaccines, the bubbles are coated with a stabilizing molecule called polyethylene glycol that he considered a “leading contender” for triggering an allergic reaction. He stressed that more investigation was needed.
+
+Pfizer’s trial did not find any serious adverse events caused by the vaccine, although many participants did experience aches, fevers and other side effects. The Alaska reactions were assumed to be related to the vaccine because they occurred so quickly after the shot.
+
+A Pfizer spokeswoman, Jerica Pitts, said the company did not yet have all of the details of the Alaska situation but was working with local health authorities. The vaccine comes with information warning that medical treatment should be available in case of a rare anaphylactic event, she said. “We will closely monitor all reports suggestive of serious allergic reactions following vaccination and update labeling language if needed,” Ms. Pitts said.
+
+After the workers in Britain fell ill, authorities there warned against giving the vaccines to anyone with a history of severe allergic reactions. They later clarified their concerns, changing the wording from “severe allergic reactions” to specify that the vaccine should not be given to anyone who has ever had an anaphylactic reaction to a food, medicine or vaccine. That type of reaction to a vaccine is “very rare,” they said.
+
+Pfizer officials have said the two British people who had the reaction had a history of severe allergies. One, a 49-year-old woman, had a history of egg allergies. The other, a 40-year-old woman, had a history of allergies to several medications. Both carried EpiPen-like devices to inject themselves with epinephrine in case of such a reaction.
+
+Pfizer has said that its vaccine does not contain egg ingredients.
+
+The British update also said that a third patient had a “possible allergic reaction,” but did not describe it.
+
+In the United States, federal regulators issued a broad authorization for the vaccine on Friday to adults 16 years and older. Health care providers were warned not to give the vaccine to anyone with a “known history of a severe allergic reaction” to any component of the vaccine, which they said was a standard warning for vaccines.
+
+But because of the British cases, F.D.A. officials have said they would require Pfizer to increase its monitoring for anaphylaxis and submit data on it once the vaccine comes into further use. Pfizer also said the vaccine was recommended to be administered in settings that have access to equipment to manage anaphylaxis. Last weekend, the C.D.C. said people with serious allergies could be safely vaccinated, with close monitoring for 30 minutes after receiving the shot.
+
+Anaphylaxis can be life-threatening, with impaired breathing and drops in blood pressure that usually occur within minutes or even seconds after exposure to a food or medicine, or even a substance like latex to which the person is allergic.
+
+A Boston physician said he developed a severe allergic reaction minutes after receiving Moderna’s coronavirus vaccine on Thursday, in the first week of the nationwide rollout for the company’s shots.
+
+The case was the first of its kind reported to be linked to Moderna’s vaccine. Federal agencies are investigating at least six cases involving people who suffered anaphylaxis after receiving the Pfizer-BioNTech vaccine, which contains similar ingredients, during the first few weeks of its distribution in the United States.
+
+Officials with the Food and Drug Administration and the Centers for Disease Control and Prevention had discussed the reactions involving some of the Pfizer cases, but have not determined whether an ingredient in the vaccine caused the allergic responses. A few health care workers in Britain had also experienced anaphylaxis after receiving the Pfizer vaccine earlier this month.
+
+The incident on Thursday involved Dr. Hossein Sadrzadeh, a geriatric oncologist at Boston Medical Center, who has a severe shellfish allergy and had an appointment to get the Moderna shot in the afternoon. In an interview, Dr. Sadrzadeh said he experienced a severe reaction almost immediately after he was inoculated, feeling dizzy and with his heart racing.
+
+In a statement, David Kibbe, a spokesman for Boston Medical Center, confirmed that Dr. Sadrzadeh had received Moderna’s vaccine on Thursday. The statement said that Dr. Sadrzadeh “felt he was developing an allergic reaction and was allowed to self-administer his personal EpiPen. He was taken to the Emergency Department, evaluated, treated, observed and discharged. He is doing well today.”
+
+Ray Jordan, a spokesman for Moderna, said on Thursday evening that the company could not comment publicly on an individual case. On Friday, Mr. Jordan added that the company’s medical safety team would look into the matter, and he referred further questions to officials at Operation Warp Speed, the federal program overseeing vaccine distribution.
+
+The F.D.A. would not comment on the new report on Friday.
+
+Tom Skinner, a spokesman for the C.D.C., said that information on reactions to the new vaccines would be posted to the agency’s website starting next week. Belsie González, a spokeswoman for the C.D.C., referred further questions to local public health authorities.
+
+With more than 1.1 million injections already delivered to arms across the country, severe allergic reactions remain a rarity, and should not prompt concern in most people, said Dr. Merin Kuruvilla, an allergist and immunologist at Emory University. “This should not deter people who are not obviously at increased risk,” she said.
+
+After the initial cases accompanying the Pfizer shots, the C.D.C. issued advice that the Pfizer and Moderna vaccines might not be appropriate for people with a history of anaphylaxis to ingredients in either injection. Anaphylaxis, which typically happens within minutes after exposure to a triggering substance, can impair breathing and cause precipitous drops in blood pressure, potentially becoming life-threatening.
+
+The agency recommended that people with other allergies should still get their shots and wait the standard 15 minutes post-injection before leaving the vaccination site. Anyone who previously had an anaphylactic reaction to a substance, including another vaccine or injectable drug, should be monitored for an extra 15 minutes.
+
+In the case on Thursday, Dr. Sadrzadeh said he brought his EpiPen to his vaccine appointment because of his serious allergies. He said that within minutes of the vaccine injection at 3:30 p.m., his heart rate had spiked to 150 beats per minute, about twice its normal cadence; his tongue prickled and went numb. Before long, he was drenched in a cold sweat and found himself feeling dizzy and faint. His blood pressure also plummeted, he said.
+
+His immune system, he realized, was in revolt.
+
+“It was the same anaphylactic reaction that I experience with shellfish,” Dr. Sadrzadeh said.
+
+Dr. Sadrzadeh used his EpiPen and was taken on a stretcher to the emergency room, where he was given several medications, including steroids and Benadryl, to calm the immune reactions that had overtaken his body. A record of his visit stated that he had been “seen in the ER for shortness of breath, dizziness, palpitations and numbness after receiving the Covid-19 vaccine.”
+
+Four hours later, Dr. Sadrzadeh was released from care. As of Friday morning, he said he felt fully recovered. But the previous day’s events shook him. “I don’t want anybody to go through that,” he said.
+
+Dr. Sadrzadeh reported his reaction to both Moderna and a national vaccine safety surveillance system run by the F.D.A. and the C.D.C.
+
+The vaccines developed by Pfizer-BioNTech and Moderna are the only ones that have been authorized for emergency use so far during the coronavirus pandemic, with mostly health care workers receiving top priority for immunization.
+
+Moderna’s vaccine, like Pfizer’s, is designed around a molecule called messenger RNA, or mRNA, that’s injected into the upper arm. Once inside human cells, the mRNA instructs the manufacture of a protein called spike, which then teaches the immune system to recognize and thwart the coronavirus, should it ever invade the body. Each vaccine contains a handful of other ingredients that sheath the fragile mRNA in a protective greasy bubble and help keep the recipe stable in transit.
+
+None of the ingredients in either vaccine have been identified as common allergens. But several experts have cautiously pointed to polyethylene glycol, or PEG, which appears in both recipes, albeit in slightly different formulations, as a possible culprit. PEG is found in a bevy of pharmaceutical products, including ultrasound gel, laxatives and injectable steroids, and allergies to it are extremely rare.
+
+Dr. Kuruvilla said it remained possible that something else was responsible, and more investigation was needed to nail down the cause of this smattering of events.
+
+Dr. Kimberly Blumenthal, an allergist and immunologist at Massachusetts General Hospital, noted that anaphylaxis can sometimes be difficult to confirm without blood work that hunts for an enzyme called tryptase, which is released during allergic reactions. It’s essential, she added, for there to be protocols in place so similar cases can be investigated further.
+
+According to data filings from its late-stage clinical trials, Moderna did not report any links between its vaccine and anaphylaxis. But when products emerge from closely monitored studies into broad distribution, rare side effects can occur.
+
+The recent allergic reactions linked to Pfizer’s very similar vaccine prompted heated discussions during advisory panel discussions held this month by the F.D.A. and the C.D.C., with experts noting that anaphylaxis seemed to be occurring at an unusual frequency so soon into distribution. (Under normal circumstances, allergic reactions to vaccines are thought to occur at a rate of about one in a million.)
+
+Not long after the new coronavirus first surfaced last December, an ambitious prediction was made: A vaccine would be available within 12 to 18 months, and it would stop the pandemic.
+
+Despite serious challenges — how to mass manufacture, supply and deliver a vaccine worldwide — the first prong of that wish could well be fulfilled. Eight vaccine candidates are undergoing large-scale efficacy tests, so-called Phase 3 trials, and results are expected by the end of this year or early 2021.
+
+But even if one, or more, of those efforts succeeds, a vaccine might not end the pandemic. This is partly because we seem to be focused at the moment on developing the kind of vaccine that may well prevent Covid-19, the disease, but that wouldn’t do enough to stop the transmission of SARS-CoV-2, the virus that causes Covid-19.
+
+Doctors usually explain vaccines to patients and the parents of young children by describing how those protect us from a particular disease: An attenuated form of a pathogen, or just a bit of it, is inoculated into the human body in order to trigger its immune response; having learned to fight off that pathogen once, the body will remember how to fend off the disease should it be exposed to the same pathogen later.
+
+A vaccine’s ability to forestall a disease is also how vaccine developers typically design — and how regulators typically evaluate — Phase 3 clinical trials for vaccine candidates.
+
+Yet the best vaccines also serve another, critical, function: They block a pathogen’s transmission from one person to another. And this result, often called an “indirect” effect of vaccination, is no less important than the direct effect of preventing the disease caused by that pathogen. In fact, during a pandemic, it probably is even more important.
+
+That’s what we should be focusing on right now. And yet we are not.
+
+Stopping a virus’s transmission reduces the entire population’s overall exposure to the virus. It protects people who may be too frail to respond to a vaccine, who do not have access to the vaccine, who refuse to be immunized and whose immune response might wane over time.
+
+The benefits of this approach have been demonstrated with other pathogens and other diseases.
+
+The Haemophilus influenzae type B (Hib) conjugate vaccines were designed, and licensed in the early 1990s, to prevent young children from developing serious infections such as meningitis. Soon enough an unexpected and welcome side benefit became clear: The vaccine interrupted the bacterium’s transmission; after its introduction, occurrences of the disease dropped also in groups that had not been vaccinated.
+
+The human papillomavirus (HPV) vaccines were developed to prevent cervical cancer and genital warts in women. They have proved immensely effective among the women to whom they are administered — and up to 50 percent effective at preventing genital warts among unvaccinated men, according to a 2017 study of the health insurance records for 2005-10 of some nine million people in Germany.
+
+To understand why this is the case, remember what it takes for you to become ill from a pathogen, be it a virus or a bacterium.
+
+First, you are exposed to it. Then it infects you. While you are infected, you may infect others. In some cases, the infection develops into a disease. In other cases, it doesn’t: Though infected, you remain asymptomatic.
+
+One way that vaccines can interrupt a pathogen’s transmission cycle is by preventing the pathogen from causing an infection in the first place. This is how many common vaccines — against measles, mumps, rubella and chickenpox — operate.
+
+Other vaccines — like the ones against meningococcal meningitis or pneumonia brought on by the pneumococcus bacterium — can block the transmission of the pathogen by interfering with the infection or by decreasing either the quantity of pathogen that the infected patient sheds or the duration of the shedding period.
+
+Some recipients of the pneumococcal pneumonia vaccine simply don’t get infected with the bacterium; others do get infected and carry the bacterium in their nose, but in smaller amounts and for shorter periods of time than if they had not been vaccinated.
+
+Much still needs to be learned about precisely how such mechanisms work — what part do antibodies play? T cells? — but the upshot from these examples is this: Vaccines can block the transmission of viruses or bacteria, and they can do so in several ways.
+
+Given the communitywide benefits of accomplishing that, especially in a pandemic, current vaccine-development efforts should prioritize finding vaccines that limit the transmission of SARS-CoV-2.
+
+The U.S. Food and Drug Administration has stated that preventing a SARS-CoV-2 infection is in itself a sufficient endpoint for the Phase 3 trials of vaccine candidates — that it is an acceptable alternative goal to preventing the development of Covid-19. The World Health Organization has said that “shedding/transmission” is as well.
+
+These guidelines are an important signal, especially considering that the F.D.A. has never approved a vaccine based on its effects on infection alone; instead, the agency has focused exclusively on the vaccine’s effectiveness at disease prevention.
+
+And yet vaccine developers do not seem to be heeding this new call.
+
+Based on our review of the Phase 3 tests listed at ClinicalTrials.gov, a database of trials conducted around the world, the primary goal in each of these studies is to reduce the occurrence of Covid-19.
+
+Four of the six Covid-19 vaccine trials for which information is available say they will also evaluate the incidence of SARS-CoV-2 infections among subjects — but only as an ancillary outcome.
+
+This approach is shortsighted: One cannot assume that a vaccine that prevents the development of Covid-19 in a patient will necessarily also limit the risk that the patient will transmit SARS-CoV-2 to other people.
+
+For example, a study of young Australian teenagers published in the New England Journal of Medicine early this year found that the vaccine used to prevent the diseases caused by the B strain of meningococcus in children and teenagers “had no discernible effect” on the presence of the relevant bacterium in the throats of vaccinated subjects displaying no symptoms.
+
+The inactivated polio vaccine prevalent in many developed countries today, known as IPV, is highly effective at protecting individuals against polio. But it is far less effective at reducing viral shedding, at least in fecal excretions, than the oral vaccine, known as OPV, used more widely in other parts of the world.
+
+In the late 1990s, the United States, like other wealthy countries, replaced with an acellular vaccine the killed-whole-cell pertussis vaccine it had previously used against whooping cough. A resurgence of whooping cough already was underway, but it accelerated then: Although the new vaccine was better than the previous one at protecting the inoculated from the disease, it was less good at blocking transmission of the bacterium that causes the cough.
+
+Conversely, a vaccine that, let’s say, offers older adults only modest protection against developing a disease might nonetheless be very effective, when administered to healthy adults or children, at curbing a pathogen’s transmission in a population overall.
+
+This is the case with the pneumococcal conjugate vaccine. A 2015 study published in the New England Journal of Medicine found that the vaccine reduced the occurrence of pneumonia in inoculated adults age 65 or older by only about 45 percent. Yet, according to a study last year by researchers at the Centers for Disease Control and Prevention and Stanford University, the immunization of infants and toddlers reduced ninefold the incidence of pneumococcal disease in the elderly.
+
+With some vaccines, for some diseases, the indirect benefits of vaccination can be greater than the direct effects.
+
+Based on these precedents, it could be a grave mistake for vaccine developers now to hew only, or too closely, to the single-minded goal of preventing Covid-19, the disease.
+
+Doing so could mean privileging vaccines that don’t block the transmission of SARS-CoV-2 at all, or abandoning vaccines that block transmission well enough but that, by prevailing standards, are deemed to not forestall enough the development of Covid-19.
+
+That, in turn, would essentially mean that the only way to ever get rid of SARS-CoV-2 would be near-universal immunization — a herculean task.
+
+Focusing on how to block the coronavirus’s transmission is a much more efficient approach.
+
+This is why randomized controlled trials of the vaccines currently under consideration should include regular monitoring for the presence of SARS-CoV-2 in study subjects. The goal should be to evaluate whether the subjects acquire the infection at all, and for how long, as well as how abundantly they shed and spread the virus, when and how.
+
+Studying these issues could also help cast a light on the role of so-called superspreading events in this pandemic.
+
+More and more research suggests that a very small number of instances — gatherings at restaurants or bars, choir rehearsal, funerals, church services — might account for a vast majority of the cases of infection overall.
+
+But the discussion about those instances has tended to focus on their settings and circumstances, such as the presence of crowds in confined spaces for extended periods of time.
+
+Yet the question of whether some infected individuals, perhaps especially at certain stages of infection, are particularly infectious — whether they, themselves, are superspreaders — also needs to be studied head-on: When does contagiousness peak in whom and why? And can vaccines modify any of that?
+
+The best vaccines don’t just protect the inoculated from getting sick from a disease. They also protect everyone else from even contracting the pathogen that causes that disease.
+
+Preventing the very transmission of SARS-CoV-2, no less than stopping it from turning into Covid-19, should be a main priority of current efforts to develop the vaccines to end this pandemic.
+
+One remarkable aspect of the Covid-19 pandemic has been how often unpopular scientific ideas, from the lab-leak theory to the efficacy of masks, were initially dismissed, even ridiculed, only to resurface later in mainstream thinking. Differences of opinion have sometimes been rooted in disagreement over the underlying science. But the more common motivation has been political.
+
+Another reversal in thinking may be imminent. Some scientists have raised concerns that the safety risks of Covid-19 vaccines have been underestimated. But the politics of vaccination has relegated their concerns to the outskirts of scientific thinking—for now.
+
+Historically, the safety of medications—including vaccines—is often not fully understood until they are deployed in large populations. Examples include rofecoxib (Vioxx), a pain reliever that increased the risk of heart attack and stroke; antidepressants that appeared to increase suicide attempts among young adults; and an influenza vaccine used in the 2009-10 swine flu epidemic that was suspected of causing febrile convulsions and narcolepsy in children. Evidence from the real world is valuable, as clinical trials often enroll patients who aren’t representative of the general population. We learn more about drug safety from real-world evidence and can adjust clinical recommendations to balance risk and benefits.
+
+The Vaccine Adverse Event Reporting System, or Vaers, which is administered by the Centers for Disease Control and Prevention and the Food and Drug Administration, is a database that allows Americans to document adverse events that happen after receiving a vaccine. The FDA and CDC state that the database isn’t designed to determine whether the events were caused by a vaccine. This is true. But the data can nonetheless be evaluated, accounting for its strengths and weaknesses, and that is what the CDC and FDA say they do.
+
+The Vaers data for Covid-19 vaccines show an interesting pattern. Among the 310 million Covid-19 vaccines given, several adverse events are reported at high rates in the days immediately after vaccination, and then fall precipitously afterward. Some of these adverse events might have occurred anyway. The pattern may be partly attributable to the tendency to report more events that happen soon after vaccination.
+
+The database can’t say what would have happened in the absence of vaccination. Nonetheless, the large clustering of certain adverse events immediately after vaccination is concerning, and the silence around these potential signals of harm reflects the politics surrounding Covid-19 vaccines. Stigmatizing such concerns is bad for scientific integrity and could harm patients.
+
+Four serious adverse events follow this arc, according to data taken directly from Vaers: low platelets (thrombocytopenia); noninfectious myocarditis, or heart inflammation, especially for those under 30; deep-vein thrombosis; and death. Vaers records 321 cases of myocarditis within five days of receiving a vaccination, falling to almost zero by 10 days. Prior research has shown that only a fraction of adverse events are reported, so the true number of cases is almost certainly higher. This tendency of underreporting is consistent with our clinical experience.
+
+Analyses to confirm or dismiss these findings should be performed using large data sets of health-insurance companies and healthcare organizations. The CDC and FDA are surely aware of these data patterns, yet neither agency has acknowledged the trend.
+
+The implication is that the risks of a Covid-19 vaccine may outweigh the benefits for certain low-risk populations, such as children, young adults and people who have recovered from Covid-19. This is especially true in regions with low levels of community spread, since the likelihood of illness depends on exposure risk.
+
+And while you would never know it from listening to public-health officials, not a single published study has demonstrated that patients with a prior infection benefit from Covid-19 vaccination. That this isn’t readily acknowledged by the CDC or Anthony Fauci is an indication of how deeply entangled pandemic politics is in science.
+
+There are, however, signs of life for scientific honesty. In May, the Norwegian Medicines Agency reviewed case files for the first 100 reported deaths of nursing-home residents who received the Pfizer vaccine. The agency concluded that the vaccine “likely” contributed to the deaths of 10 of these residents through side effects such as fever and diarrhea, and “possibly” contributed to the deaths of an additional 26. But this type of honesty is rare. And it is rare for any vaccine to be linked to deaths, so this unusual development for mRNA vaccines merits further investigation.
+
+The battle to recover scientific honesty will be an uphill one in the U.S. Anti-Trump politics in the spring of 2020 mushroomed into social-media censorship. News reporting often lacked intellectual curiosity about the appropriateness of public-health guidelines—or why a vocal minority of scientists strongly disagreed with prevailing opinions. Scientists have advocated for or against Covid-19 therapies while having financial relationships with product manufacturers and their foundation benefactors.
+
+Public-health authorities are making a mistake and risking the public’s trust by not being forthcoming about the possibility of harm from certain vaccine side effects. There will be lasting consequences from mingling political partisanship and science during the management of a public-health crisis.
+
+None of the current trials are designed to detect a reduction in any serious outcome such as hospitalisations, intensive care use, or deaths
+
+Vaccines are being hailed as the solution to the covid-19 pandemic, but the vaccine trials currently underway are not designed to tell us if they will save lives, reports Peter Doshi, Associate Editor at The BMJ today.
+
+Several covid-19 vaccine trials are now in their most advanced (phase 3) stage, but what will it mean exactly when a vaccine is declared “effective”? 
+
+Many may assume that successful phase 3 studies will mean we have a proven way of keeping people from getting very sick and dying from covid-19. And a robust way to interrupt viral transmission.
+
+Yet the current phase 3 trials are not actually set up to prove either, says Doshi. 
+
+“None of the trials currently underway are designed to detect a reduction in any serious outcome such as hospitalisations, intensive care use, or deaths. Nor are the vaccines being studied to determine whether they can interrupt transmission of the virus,” he writes.
+
+He explains that all ongoing phase 3 trials for which details have been released are evaluating mild, not severe, disease - and they will be able to report final results once around 150 participants develop symptoms.
+
+In Pfizer and Moderna’s trials, for example, individuals with only a cough and positive lab test would bring those trials one event closer to their completion.
+
+Yet Doshi argues that vaccine manufacturers have done little to dispel the notion that severe covid-19 was what was being assessed. 
+
+Moderna, for example, called hospitalisations a “key secondary endpoint” in statements to the media. But Tal Zaks, Chief Medical Officer at Moderna, told The BMJ that their trial lacks adequate statistical power to assess that endpoint.
+
+Part of the reason may be numbers, says Doshi. Because most people with symptomatic covid-19 infections experience only mild symptoms, even trials involving 30,000 or more patients would turn up relatively few cases of severe disease. 
+
+“Hospitalisations and deaths from covid-19 are simply too uncommon in the population being studied for an effective vaccine to demonstrate statistically significant differences in a trial of 30,000 people,” he adds. “The same is true regarding whether it can save lives or prevent transmission: the trials are not designed to find out.” 
+
+Zaks confirms that Moderna’s trial will not demonstrate prevention of hospitalisation because the size and duration of the trial would need to be vastly increased to collect the necessary data. “Neither of these I think are acceptable in the current public need for knowing expeditiously that a vaccine works,” he told The BMJ.
+
+Moderna’s trial is designed to find out if the vaccine can prevent covid-19 disease, says Zaks. Like Pfizer and Johnson and Johnson, Moderna has designed its study to detect a relative risk reduction of at least 30% in participants developing lab-confirmed covid-19, consistent with FDA and international guidance.
+
+Zaks also points to influenza vaccines, saying they protect against severe disease better than mild disease. “To Moderna, it’s the same for covid-19: if their vaccine is shown to reduce symptomatic covid-19, they will feel confident it also protects against serious outcomes,” Doshi writes.
+
+But Doshi raises another important issue - that few or perhaps none of the current vaccine trials appear to be designed to find out whether there is a benefit in the elderly, despite their obvious vulnerability to covid-19.
+
+If the frail elderly are not enrolled into vaccine trials in sufficient numbers to determine whether there is a reduction in cases in this population, “there can be little basis for assuming any benefit against hospitalisation or mortality,” he warns.
+
+Doshi says that we still have time to advocate for changes to ensure the ongoing trials address the questions that most need answering.
+
+For example, why children, immunocompromised people, and pregnant women have largely been excluded; whether the right primary endpoint has been chosen; whether safety is being adequately evaluated; and whether gaps in our understanding of how our immune system responds to covid-19 are being addressed.
+
+“The covid-19 vaccine trials may not have been designed with our input, but it is not too late to have our say and adjust their course. With stakes this high, we need all eyes on deck,” he argues.
+
+I’m not an expert, but I have to dispute the claim that Covid-19 is a “vaccine-preventable” illness made in a June 14 letter.
+
+Some of my family members were fully vaccinated and boosted and still contracted Covid not once, but twice. I support vaccinations, but they do not prevent infection, though they can mitigate the negative effects of Covid.
+
+Even after vaccination, people can contract Covid, often asymptomatically or with mild symptoms, and transmit it to others.
+
+Why don’t Covid-19 vaccinations last longer?
+
+Measles shots are good for life, chickenpox immunizations protect for 10 to 20 years, and tetanus jabs last a decade or more. But U.S. officials are weighing whether to authorize Covid-19 boosters for vaccinated adults as soon as six months after the initial inoculation.
+
+The goal of a vaccine is to provide the protection afforded by natural infection, but without the risk of serious illness or death.
+
+“A really good vaccine makes it so someone does not get infected even if they are exposed to the virus,” said Rustom Antia, a biology professor at Emory University who studies immune responses. “But not all vaccines are ideal.”
+
+The three tiers of defense, he said, include full protection against infection and transmission; protection against serious illness and transmission; or protection against serious illness only.
+
+The effectiveness depends on the magnitude of the immune response a vaccine induces, how fast the resulting antibodies decay, whether the virus or bacteria tend to mutate, and the location of the infection.
+
+The threshold of protection is the level of immunity that’s sufficient to keep from getting sick. For every bug, it’s different, and even how it’s determined varies.
+
+“Basically, it’s levels of antibodies or neutralizing antibodies per milliliter of blood,” said Mark Slifka, a professor at Oregon Health & Science University.
+
+(T-cells also contribute to protection, but antibodies are easier to measure.)
+
+A threshold 0.01 international units per milliliter was confirmed for tetanus in 1942 when a pair of German researchers intentionally exposed themselves to the toxin to test the findings of previous animal studies.
+
+“One of them gave himself two lethal doses of tetanus in his thigh, and monitored how well it went,” Dr. Slifka said. “His co-author did three lethal doses.”
+
+Neither got sick.
+
+A threshold for measles was pinned down in 1985 after a college dorm was exposed to the disease shortly after a blood drive. Researchers checked antibody concentrations in the students’ blood donations and identified 0.02 international units per milliliter as the level needed to prevent infection.
+
+With these diseases, the magnitudes of response to the vaccines combined with the antibodies’ rates of decay produce durable immune responses: Measles antibodies decay slowly. Tetanus antibodies decay more quickly, but the vaccine causes the body to produce far more than it needs, offsetting the decline.
+
+“We’re fortunate with tetanus, diphtheria, measles and vaccinia,” Dr. Slifka said. “We have identified what the threshold of protection is. You track antibody decline over time, and if you know the threshold of protection, you can calculate durability of protection. With Covid, we don’t know.”
+
+Historically, the most effective vaccines have used replicating viruses, which essentially elicit lifelong immunity.
+
+Measles and chickenpox vaccines use replicating viruses.
+
+Non-replicating vaccines and protein-based vaccines (such as the one for tetanus) don’t last as long, but their effectiveness can be enhanced with the addition of an adjuvant—a substance that enhances the magnitude of the response.
+
+Tetanus and hepatitis A vaccines use an adjuvant.
+
+The Johnson & Johnson and AstraZeneca Covid-19 vaccines use non-replicating adenovirus and don’t contain an adjuvant. The Pfizer and Moderna messenger RNA Covid-19 vaccines, which work differently, don’t contain any virus at all. 
+
+Complicating things further, viruses and bacteria that mutate to escape the body’s immune response are harder to control.
+
+Measles, mumps, rubella and chickenpox hardly mutate at all, but at least eight variants of SARS-CoV-2, the virus that causes Covid-19, have been found, according to the British Medical Journal.  
+
+“It does make it more complicated for the vaccine to work,” Dr. Slifka said. “You’re chasing multiple targets over time. Flu also mutates. With flu, we’ve adjusted by making a new flu vaccine each year that as closely as possible matches the new strain of flu.”
+
+Flu vaccines can offer protection for at least six months.
+
+Setting aside the complexities of crafting an effective vaccine to combat a shape-shifting virus, some hope has revolved around the possibility of defeating Covid-19 by achieving herd immunity, but, according to Dr. Antia, the way coronaviruses infect the body makes that challenging.
+
+“Vaccines are very unlikely to lead to long-lasting herd immunity for many respiratory infections,” Dr. Antia said. “The herd immunity only lasts for a modest period of time. It depends on how fast the virus changes. It depends on how fast the immunity wanes.”
+
+Part of the problem is that coronaviruses replicate in both the upper and lower respiratory tracts.
+
+“We have good circulation in our lungs and body, but not on the surfaces of our nostrils,” Dr. Slifka said. “We can block severe disease because there are antibodies in the lower respiratory tract.”
+
+But the risk of low-level infections in the upper respiratory tract can persist.
+
+Moving forward, Covid-19 vaccines will be updated to combat variants of the virus, and according to researchers at Imperial College London, the next generation of vaccines might also focus on enhancing immunity in the moist surfaces of the nose and lungs.
+
+In the meantime, avoiding the slippery virus might require another shot.
+
+As Covid-19 vaccine development picks up pace, the Philippines has drawn up an immunization plan. The bottom line, officials say: Getting doses to enough of the population to rein in the virus will take two to five years.
+
+That is the forecast for reaching the target of 60 million to 70 million of the country’s nearly 110 million people, they say, using a patchwork of vaccines from different suppliers. So far the Philippines has struck just one vaccine deal, for 2.6 million shots—enough for 1.3 million people.
+
+Manila’s early blueprint is a reality check for those expecting a swift vaccine-driven end to the pandemic and revival of global trade and travel. While some countries may be able to get shots to large portions of their populations in 2021, some in the developing world may be years away from protecting more than their highest-risk populations.
+
+That means the virus will continue to circulate and claim lives in various corners of the map. Some global health specialists worry about a future in which the coronavirus lurks in such places, becoming endemic—and perhaps evolving in ways that make current vaccines less effective.
+
+“There’s no point having products that do not reach the majority of the world’s population,” said Soumya Swaminathan, chief scientist of the World Health Organization. She cited the hepatitis B vaccine, saying it took 30 years after its introduction in rich countries to reach low- and middle-income countries.
+
+Only one disease—smallpox—has ever been eradicated from the human population using a vaccine.
+
+For countries like the Philippines, the challenge of procuring the vaccine from the limited supply and financing the purchase is just the start: They must then mount large, coordinated operations to get the shots to their far-flung populations. “Our battle with Covid-19 is going to be a long one,” Carlito Galvez Jr., who leads the country’s vaccine effort, said in late November.
+
+In the U.S., the supply chief for the government-backed Operation Warp Speed vaccine initiative said shots could be available to all by June. In the Philippines, officials say it will take up to two years just to cover the approximately 35% of the population identified as high-risk or high-priority: groups like front-line health-care workers, government staff, senior citizens and people with existing medical conditions. Officials estimate they will be able to inoculate 25 to 35 million people a year.
+
+The Philippines, which is suffering one of the worst outbreaks in Southeast Asia, lags behind in signing advance purchase agreements. Months of talks with 17 companies from seven countries have yielded just one agreement, the 2.6 million-dose deal with AstraZeneca.
+
+The United Nations-backed Covax initiative aims to secure enough vaccines for countries’ highest-risk 20%. Going beyond that benchmark will be especially hard for places like the Philippines. It lacks vaccine-production capacity and has no domestic vaccine candidate in development, and without locking in deals, it may have to wait for deliveries in relatively small batches from multiple suppliers.
+
+Governments have reserved about 9.8 billion doses in deals with drugmakers, with 3.9 billion bound for high-income countries, according to an analysis of procurement data by the Duke Global Health Innovation Center. It cited models showing insufficient supplies to meet global demand until 2023 or 2024.
+
+Philippines vaccine chief Mr. Galvez said last week that more orders are on the horizon. Lawmakers passed a bill waiving a requirement for years of advance-stage trials, and President Rodrigo Duterte this month empowered the country’s Food and Drug Administration to issue emergency-use authorizations that will slash approval time.
+
+Mr. Galvez said he expects the Philippines to secure about 10 million to 20 million doses from each of some half-dozen drugmakers from the U.S., U.K., China, India and Russia, on course for a total of 50 million to 60 million doses by the end of 2021.
+
+Once the shots are in hand, the public health-care system must overcome obstacles that have stymied past vaccination programs. One high hurdle is transportation: The Philippines is an archipelago, with many people living in remote villages.
+
+In the past supplies have often expired before they could be administered, said Dr. Charles Yu, vice chancellor for research at the De La Salle Medical and Health Sciences Institute in Manila. Some Covid-19 vaccines need to be kept at extremely low temperatures that will require custom-built cold-chain storage and transport facilities.
+
+For decades, the Philippines has fared worse on immunization than many of its neighbors. World Health Organization data shows it falling far short of the targets for some of the most ubiquitous vaccines. As of 2019, only 11% of the country’s administrative districts had reached the 80% coverage recommended to achieve herd immunity for diphtheria, and just 2% had reached the 95% coverage recommended for measles.
+
+According to the Philippines’ Department of Health, 66% of infants had received all basic recommended vaccines in 2018, down from about 86% in 2010. Experts attribute this in part to wavering public confidence following a vaccine-program debacle in 2017. The government stopped administering Sanofi Pasteur’s dengue-fever vaccine, Dengvaxia, to schoolchildren after the company said it could put some recipients at higher risk.
+
+“After Dengvaxia, measles went up, and polio, which was virtually eradicated, returned with a vengeance,” said Dr. Yu of the De La Salle Medical and Health Sciences Institute. “Confidence is not very high, but fear of the vaccine may be overcome by fear of this virus and what it’s done to people’s lives.”
+
+Nearly half of Americans believe Covid vaccines have probably caused a significant number of unexplained deaths, according to a Rasmussen Reports survey last week. In December, Rasmussen reported that a near equal proportion worry that Covid vaccines may have major side effects (57%) as believe they are effective (56%).
+
+People can hold both views at the same time. But the self-professed expert class and many who call themselves journalists dismiss anyone who questions their Covid vaccine orthodoxy as an “anti-vaxxer”—a label as sneering as “climate denier.”
+
+But surveys show that most Americans, including those who didn’t get Covid shots, don’t distrust vaccines in general. Public views on Covid vaccines are more complicated because they are new and haven’t been thoroughly studied. The experts are responsible for vaccine skepticism because they aren’t honest about the potential risks.
+
+The mRNA vaccines use a novel technology to combat a novel virus that is evolving. They were authorized by the Food and Drug Administration on an emergency basis after only 10 months of testing. Vaccine trials usually take about 10 years.
+
+With thousands dying each day, the FDA in December 2020 decided it couldn’t wait for an exhaustive study and authorized the Pfizer and Moderna vaccines after two large randomized controlled trials showed they were nearly 95% effective against symptomatic infection. But patients had been tracked for only a few months. The trials included too few participants to identify relatively rare adverse effects, especially among those of different age groups or with particular medical conditions. Public-health officials couldn’t conclude with any certainty whether the vaccines cause, for example, neurological symptoms in 1 of every 100,000 recipients or cardiac problems in 1 of every 10,000 young men.
+
+While the FDA later granted both vaccines full approval, boosters were never tested in large clinical trials. Nor has the government’s recommended vaccine regimen, which for seniors has been five doses in less than two years. Booster recommendations were made on the fly on the assumption that the benefits outweighed the vaccine risks. Last fall two senior FDA vaccine officials resigned, reportedly because political appointees were pre-empting agency scientists and rushing boosters for all adults without enough evidence that they were necessary or safe.
+
+“Since the boosters have potential side effects, however rare, it’s important to direct them to the people who will gain a clear benefit,” they wrote in the Washington Post in November 2021. “A healthy young person with two mRNA vaccine doses is extremely unlikely to be hospitalized with covid, so the case for risking any side effects—such as myocarditis—diminishes substantially.”
+
+They also raised the concern that boosters could lead to immunological imprinting, in which “repeatedly ‘training’ the immune system to fight the original virus could reduce the effectiveness of a variant-specific booster.”
+
+Scientists continue to study and make new discoveries about the virus; the same goes for vaccines. An article in the American Heart Association’s journal Circulation last week found a link between myocarditis in teens and higher circulating levels of vaccine spike proteins in the blood. The authors found no correlation with vaccine antibody or T-cell responses, suspected by many as the cause of myocarditis.
+
+A Dec. 22 study in Science Immunology found that repeated mRNA vaccines increased production of a specific class of antibodies known as IgG4, which is associated with immune tolerance. That’s when the immune system continually encounters a foreign agent, learns it isn’t lethal, and stops targeting it. In the case of the vaccine spike protein, IgG4 could make people more susceptible to future Covid infection.
+
+All this deserves more study. To say the human organism and its systems are complicated is an understatement. A little more humility by those who purport to be experts is in order. It’s usually impossible to prove a death or adverse event is caused by a vaccine. But when a friend dies unexpectedly soon after getting inoculated, it isn’t irrational to wonder if a vaccine has contributed.
+
+Stanford health-policy professor Michelle Mello—a vocal critic of vaccine misinformation—described her personal angst in the San Francisco Chronicle when her healthy 45-year-old husband suffered a stroke a few days after his second Covid dose. “Even after what one doctor called ‘a million-dollar workup,’ no one can figure out what happened,” she wrote in July 2021.
+
+When she suggested reporting the stroke to the federal Vaccine Adverse Event Reporting System, a self-reporting database that tracks events possibly related to vaccines, “the hospital care team shifted uncomfortably,” apparently worried that “anti-vaccination groups are combing those reports looking for tidbits to support their claims that the vaccines are unsafe.”
+
+The internet is full of stories of unexplained deaths that follow vaccines, many of which may be coincidence but some of which may not. The more the experts deny or ignore what people see with their own eyes, or what new evidence and experience show, the more people will ignore their counsel and be open to charlatans who undermine all vaccination.
+
+U.S. health regulators delayed their review of Pfizer Inc.’s Covid-19 vaccine in children under 5 years old because the initial two-dose series so far wasn’t working well against the Omicron variant during testing, people familiar with the decision said.
+
+An early look at data showed the vaccine to be effective against the Delta variant during testing while that was the dominant strain, but some vaccinated children developed Covid-19 after Omicron emerged, the people said.
+
+So few study subjects, whether vaccinated or unvaccinated, developed Covid-19 during testing thus far that the small number of Omicron cases made the vaccine appear less effective in an early statistical analysis, the people said.
+
+As more cases emerge, Pfizer’s shot might wind up providing stronger protection against Omicron, the people said, if the bulk of infections are in unvaccinated subjects.
+
+Officials from the Food and Drug Administration and Pfizer agreed it would be better to wait for the additional cases, the people said. The extra time would let the agency assess the vaccine’s effectiveness as either two doses or three, they said. The FDA was going to make its decision by looking at whether the shot generated immune responses comparable with those seen in older people.
+
+The delay will also allow regulators to see how a third dose performs, the people said. That additional dose is given at least two months after the second shot. The FDA hopes to have a decision on the vaccine this spring, the people said; Pfizer has said it expects study results in early April.
+
+Yet researchers are counting on more cases just as the Omicron wave declines in many countries. That could make it difficult to get enough Covid-19 cases to determine efficacy quickly, potentially forcing researchers to rely on immune responses.
+
+The decision to wait, which came days before the FDA was expected to issue its determination, angered some parents who were eager to vaccinate their young children and confused others unsure of what to do. It also prompted some health experts to criticize the FDA, saying it should have waited all along to avoid authorizing a medicine that didn’t generate a strong enough immune response.
+
+The FDA had urged Pfizer to apply for authorization in children ages 6 months to 5 years old, though the company had been planning to wait for testing to finish.
+
+The vaccine, from Pfizer and partner BioNTech SE, is in wide use among people 5 years and older. Younger children are the only group waiting for FDA clearance, and Pfizer has been testing a lower dose of its vaccine in that cohort.
+
+The testing was taking two forms: For a faster assessment, the companies explored whether the shot produced the same level of immune response in the younger children as it did in older people. They were also looking to see how many young study subjects developed Covid-19, then analyzing the numbers of vaccinated and unvaccinated people who develop cases to determine the shot’s efficacy.
+
+In a preliminary look at the data, researchers saw the vaccine was about 50% effective in the children when Delta was the predominant strain circulating, despite mixed results in whether the vaccine generated the desired immune response, the people said.
+
+In children ages 6 months to 2 years, the shot generated an immune response comparable to that seen in young adults, but it didn’t do so in children ages 2 to 4 years, according to the companies. Independent vaccine experts say they don’t know why the vaccine performed poorly in some children, and the companies have declined to speculate.
+
+One factor, the experts say, could be that children have less developed immune systems. The relatively small number of Covid-19 cases that have emerged in study subjects could also potentially skew results.
+
+Some health experts point to the low dosage given to the young children as another possible factor. Pfizer and BioNTech are testing a 3-microgram dose in children under 5 years, one-tenth the dose given to older children and adults. Using a higher dose risked more adverse effects such as sore arms and fever, one of the people familiar with the vaccine’s development said.
+
+Pfizer had studied a higher dose of 10 micrograms in a small group of children in an early study last year, but the drugmaker said it found too many of the subjects experienced side effects such as fevers and chills.
+
+Testing has found the 3-microgram doses have a good safety profile, Pfizer has said. The companies have said they hadn’t observed any serious safety concerns during the testing.
+
+The continuing study is evaluating a third dose at the same 3-microgram dose. The extra shot has produced a strong immune response in testing, one of the people said.
+
+How safe are the Covid-19 vaccines? Under my leadership, the Florida Department of Health analyzed overall mortality and cardiac-related mortality risk associated with Covid-19 vaccination. We found an 84% increase in the relative incidence of cardiac-related death among men 18 to 39 within 28 days following mRNA vaccination.
+
+The left has smeared these results as “anti-science,” as Holden Thorpe, the editor of Science, recently stated in an editorial. But time and again, the unorthodox science related to Covid-19 becomes the mainstream. Scientists have been attacked for questioning the efficacy of lockdowns, for urging schools to reopen, for challenging the effectiveness of mask mandates, and for opposing vaccine mandates and passports. The scientists asking these questions had the data on their side, but critics bowed to fear and political ideology.
+
+It’s happening again. The increased risk of cardiovascular events following the Covid-19 vaccine isn’t news; it has been known for over a year. Research has identified cardiovascular risks in the general population, and especially among young males following Covid-19 mRNA vaccination:
+
+• A Scandinavian study in JAMA Open noted an increased risk of coronary artery disease after Moderna’s mRNA vaccine, along with an increased risk of cerebrovascular disease after both Pfizer and Moderna mRNA vaccines.
+
+• Findings in the FDA’s Center for Biologics Evaluation and Research suggest that Covid-19 mRNA vaccination could be associated with an increased risk of acute myocardial infarction among Medicare enrollees.
+
+• A study in JAMA Cardiology reported that Covid-19 mRNA vaccination increased the incidence of diagnosed myocarditis in males 16 to 24 by as much as a factor of 18 after the second dose.
+
+• A study completed in Israel and published in Scientific Reports found that Covid-19 vaccine rollout was associated with an increase in acute cardiac events among young people.
+
+Every study must remain within its parameters, and the sample size of young men who met conditions to be included in our study was 77. But our findings are consistent with the data above.
+
+I wouldn’t have necessarily made my recommendation in earlier stages of the pandemic; the guidance in our study clearly states that it is based on the current high level of global immunity to Covid-19, which limits the benefit of vaccination.
+
+Backed by the data, I stand by my recommendation against Covid-19 mRNA vaccination for young men. At this point in the pandemic, it is unlikely that the benefits outweigh these risks. The public can be assured that I will continue to lead with data, and I will place their interests ahead of political pressure and fear-based ideologies.
+
+You might have heard a radio advertisement warning that if you’ve had Covid, you could get it again and experience even worse symptoms. The message, sponsored by the Health and Human Services Department, claims that updated bivalent vaccines will improve your protection.
+
+This is deceptive advertising. But the public-health establishment’s praise for the bivalent shots shouldn’t come as a surprise. Federal agencies took the unprecedented step of ordering vaccine makers to produce them and recommending them without data supporting their safety or efficacy.
+
+The idea of updating mRNA Covid shots every season originally held promise. One advantage of mRNA technology is that manufacturers can tweak the genetic sequence and rapidly produce new vaccines targeting new variants. Hence the bivalent boosters targeting the BA.4 and BA.5 Omicron variants along with the original Wuhan strain.
+
+But three scientific problems have arisen. First, the virus is evolving much faster than the vaccines can be updated. Second, vaccines have hard-wired our immune systems to respond to the original Wuhan strain, so we churn out fewer antibodies that neutralize variants targeted by updated vaccines. Third, antibodies rapidly wane after a few months.
+
+Two studies in the New England Journal of Medicine this month showed that bivalent boosters increase neutralizing antibodies against the BA.4 and BA.5 variants, but not significantly more than the original boosters. In one study, antibody levels after the bivalent boosters were 11 times as high against the Wuhan variant as BA.5.
+
+The authors posit that immune imprinting “may pose a greater challenge than is currently appreciated for inducing robust immunity against SARS-CoV-2 variants.” This isn’t unique to Covid or mRNA vaccines, though boosters may amplify the effect. Our first exposure as children to the flu—whether by infection or vaccination—affects our future response to different strains.
+
+The original Covid vaccines and boosters trained our memory B-cells to produce antibodies against the Wuhan variant. As the University of Pennsylvania’s Paul Offit explains in a New England Journal of Medicine article, previously vaccinated people who received the bivalent booster were “primed” to respond to the Wuhan strain and mounted an inferior antibody response to other variants.
+
+The studies’ findings contradict November press releases from Pfizer and Moderna asserting that their bivalents produced a response to the BA.4 and BA.5 variants four to six times that of the original boosters. These claims are misleading. Neither vaccine maker conducted a randomized trial. They tested the original boosters last winter, long before the BA.5 surge and 4½ to six months after trial participants had received their third shots. The bivalents, by contrast, were tested after BA.5 began to surge, 9½ to 11 months after recipients had received their third shots.
+
+A longer interval between shots would increase the antibody boost to the BA.5 variant. So would a prior infection with the BA.5 variant. In other words, people who received the bivalent boosters in August would have been primed to produce more antibodies in response to BA.5.
+
+The vaccine makers designed their studies to get the results they wanted. Public-health authorities didn’t raise an eyebrow, but why would they? They have a vested interest in promoting the bivalents.
+
+The Food and Drug Administration ordered the vaccine makers in June to update the boosters against BA.4 and BA.5 and rushed in late August to authorize the bivalents before clinical data were available. The Centers for Disease Control and Prevention recommended the bivalents for all adults without any evidence that they were effective or needed.
+
+Vaccine makers could have performed small randomized trials last summer and early fall that tested the bivalents against the original boosters and a placebo group. Results could have been available by the end of September. But the public-health authorities didn’t want to wait—and now we know why.
+
+The CDC published a study in November that estimated the bivalents were only 22% to 43% effective against infection during the BA.5 wave—their peak efficacy. As antibodies waned and new variants took over later in the fall, their protection against infection probably dropped to zero.
+
+Another CDC study, in December, reported that seniors who received bivalents were 84% less likely to be hospitalized than the unvaccinated, and 73% less likely than those who had received two or more doses of the original vaccine. But neither study controlled for important confounding factors—for one, that the small minority who got bivalents were probably also more likely than those who hadn’t to follow other Covid precautions or seek out treatments such as Paxlovid.
+
+FDA Commissioner Robert Califf tweeted on Jan. 11 that “COVID-19 vaccines have been associated with a significant reduction in hospitalization and death” (my emphasis). He should know that correlation doesn’t prove causation. A study found the unvaccinated were significantly more likely to get into car accidents, but that doesn’t mean vaccines prevent crashes.
+
+Many of the same experts who trashed observational studies supporting hydroxychloroquine and ivermectin now flog intrinsically flawed studies on bivalent boosters. After zealously promoting the bivalents, they may be seeking vindication. But science isn’t about vindication.
+
+Covid vaccines mitigated severe illness while most Americans gained immunity through natural infection, which substantially boosts protection. There’s a growing consensus that we need better vaccines and treatments to protect those still at risk. But we also need honest public-health leaders.
+
+Six active duty Marines are speaking out against the Biden administration’s coronavirus vaccine mandate in a video that was aired during an anti-vaccine-mandate rally in Los Angeles on Sunday.
+
+The video marks one of the most public displays by active duty service members of opposition to the mandate, which was ordered by Defense Secretary Lloyd Austin last August.
+
+In the video, the six pilots — including the first female Marine F-35C pilot — speak about the effect their opposition to the mandate has had on their lives. They all face discharge from the military, the loss of benefits, or have faced some punitive measures.
+
+Marine Lt. Col. Scott Duncan, a former Top Gun instructor and F-35 pilot, begins the video saying he was competitively selected to command an F-35 squadron, but that was rescinded due to his opposition to the vaccine mandate.
+
+“I was competitively selected to command an F-35 squadron. That achievement took 18 years and seven months and was recently taken away because my religious accommodation and appeal both came back denied,” he said.
+
+Marine Capt. Joshua Hoppe, an MV-22 Osprey pilot with just over nine years of service, said that if the mandate is not rescinded, “I will likely be removed from service, charged with misconduct, and the educational benefits that I’ve transferred to my children will be removed.”
+
+“This mandate infringes on our religious freedoms and is being unlawfully enforced. I have sworn an oath to support and defend the Constitution of the United States against all enemies, foreign and domestic. I will not abandon that oath,” Hoppe said.
+
+Marine Capt. Nick Morrison, active duty Marine F-35 pilot with just under six years of service, said he is facing discharge after his religious accommodation request was denied.
+
+“Absent intervention from our judicial branch or our senior military leadership, I face involuntary separation from our beloved corps after my religious accommodation request was wrongfully denied. These injustices being carried against an officer are likely occurring at even greater scale to our junior Marines. When we took the voluntary oath of service, we did not surrender our constitutional right to exercise religious freedom,” he said.
+
+Marine Capt. Catherine Stark, the Marine Corps’ first female F-35C Lightning II pilot, said in the video, “This past year, the policies in place have led to me being personally targeted and discriminated against. I pray to my Lord and Savior Jesus Christ that the military can reverse the mandate and respect my religious and moral beliefs as well as my legitimate health concerns.”
+
+Marine Lt. Col. Jonathan Reed, a Top Gun graduate and an F-18 pilot who has served for 18 years and 5 months, including five deployments, said he has been removed from senior positions within his units as he awaits a decision on his appeal of his religious accommodation denial.
+
+“Resulting from our quest for religious accommodation from Covid vaccines, I’ve been removed from senior positions within my units and I am awaiting final adjudication of my religious accommodation appeal,” he said.
+
+“Like thousands of other military service members, I face likely administrative separation from service. I stand here with you, and with thousands of other service members, at great risk in the aggressive defense of our Constitution and of our religious beliefs,” he said.
+
+Marine Lt. Col. Hank Hortenstine, who primarily served as an instructor pilot for multiple helicopters and fixed wing aircraft with three combat deployments, said he has been grounded for not wanting to take the vaccine.
+
+“Now I’ve been grounded and I’m being processed for punitive discharge because of my religious and conscientious objection to the shot mandate,” he said.
+
+“These stories you’ve heard today are ours. However, it bears repeating that we stand today for tens of thousands of service members in similar circumstances or even worse. Over 1,000 have already been punitively discharged under similar grounds. We stand today for truth, religious liberty, and in fulfillment of the oath that we took to support and defend the Constitution.”
+
+More than 1,500 Marines have been discharged, as well as approximately 100 soldiers, approximately 250 airmen, and approximately 800 sailors, over the vaccine mandate so far.
+
+Thousands more are expected to be discharged, including many who applied for religious accommodation but were denied. So far, several dozen have been approved, but the circumstances around those approvals are unclear.
+
+Rep. Darrell Issa (R-CA) received confirmation that at least several of those who have had requests approved were already in the process of leaving the military, as Breitbart News reported in February.
+
+Pandemic worry is the “highest it has been since last winter, before COVID-19 vaccines were readily available to the general public,” according to a Gallup poll released on Thursday. 
+
+Out of 1,569 U.S. adults polled between January 13-14, 50 percent are worried about contracting coronavirus, up 12 points from Gallup’s last reading in late November and early December. The trend coincides with a spike in omicron variant infections and is similar to last July, when survey respondents’ worry increased as the delta variant spread. 
+
+“The hopefulness Americans felt last spring after the rollout of the COVID-19 vaccines was first dashed over the summer by the delta variant, then recovered briefly as cases subsided, and is now being crushed by omicron,” according to the survey, which has a margin of sampling error is ±3 percentage points at the 95 percent confidence level.
+
+Along party lines, worry about catching coronavirus among Democrats, independents, and people who are vaccinated has “risen by double digits.” Worry among Republicans and unvaccinated adults has increased as well, though they reportedly “remain among the least worried about infection.”
+
+More Americans also said they got vaccinated when worry spiked during the delta surge, according to the report. 
+
+“Such an increase in vaccinations has not been seen in the latest data,” the survey found.
+
+Fifty-eight percent of U.S. adults say the pandemic is worsening, along with 20 percent who say its improving and 22 percent who think it is staying the same.Last summer, as vaccinations against coronavirus rose, four out of 5 of those polled believed the pandemic was improving. However, the spread of the delta variant sent that figure crashing to 15 percent, Gallup found.
+
+“By October, with infections from the delta variant waning, a slim 51 percent majority once again thought the situation was improving,” according to the report. “However, as news of the omicron strain’s emergence in Africa began to circulate in November, Americans became more concerned, and the percentage saying the situation was improving fell 20 percentage points. The latest reading is down an additional 11 points.”
+
+The World Health Organization (W.H.O.) said Tuesday there is currently “no evidence” demonstrating a need for healthy children or adolescents to receive booster doses of Chinese coronavirus vaccines.
+
+“There’s no evidence right now that healthy children or healthy adolescents need boosters. No evidence at all,” (W.H.O.) Chief Scientist Dr. Soumya Swaminathan said at a regular W.H.O. press briefing on January 18.
+
+The governments of the U.S., Israel, Germany, and Hungary recently began offering “boosters” of Chinese coronavirus vaccines to children and adolescents. A “booster” is an additional dose of a vaccine that a person receives after he or she has already completed the full series of an inoculation.
+
+“Israel has begun offering boosters to children as young as 12, and the U.S. States Food and Drug Administration earlier this month authorized the use of a third dose of the Pfizer and BioNTech COVID-19 vaccine for children aged 12 to 15,” Reuters reported on January 19.
+
+“Last week Germany became the latest country to recommend that all children between ages of 12 and 17 receive a COVID-19 booster shot. Hungary has also done so,” according to the news agency.
+
+Scientists and health experts worldwide continue to stress that children are among the lowest risk group for contracting a severe illness or dying due to an infection of the Chinese coronavirus, which is formally labeled “COVID-19.” A type of coronavirus called SARS-CoV-2 causes the disease known as “COVID-19.”
+
+Children in the U.S. between the ages of 0 and 11 account for less than 0.1 percent of total deaths caused by the Chinese coronavirus since the W.H.O. declared a pandemic of the disease in March 2020, according to the latest figures by the U.S. Centers for Disease Control and Prevention (CDC). Children and adolescents between the ages of 12 and 17 also account for less than 0.1 percent of total deaths caused by the disease in the U.S. since March 2020. Children and adolescents between the ages of 0 and 17 constitute 22.3 percent of the U.S. population, which is estimated at 332.4 million.
+
+
+W.H.O. Chief Scientist Dr. Soumya Swaminathan on January 18 said evidence gathered to date by the W.H.O.’s “Technical Advisory Group on COVID-19 Vaccine Composition (TAG-CO-VAC)” shows that such vaccines currently available worldwide are primarily helping to reduce the prevalence of severe illness and death in Chinese coronavirus patients, while their efficacy in preventing transmission of the disease is “waning” against emerging variants of the disease capable of high rates of “immune escape,” such as omicron.
+
+“The TAG-CO-VAC was set up … to pull together the threads of data and evidence that are coming from all of the other different working groups that W.H.O. has set up … and bits of evidence from all over the world. Essentially to determine … whether the vaccines need any change or not,” she said.
+
+“The current vaccines are protecting people against getting severely ill and getting hospitalized and dying,” Swaminathan stated.
+
+A Portuguese reporter asked the W.H.O. at the January 18 media briefing, “Will boosters give global immunity, lasting immunity to the virus?”
+
+“This question of the boosters is also something we’ve been looking at very closely,” Swaminathan replied.
+
+“Different variants have had different levels of immune escape. And with omicron, we know that it has the highest levels of immune escape or immune evasion that we’ve seen across all of the variants so far,” the W.H.O. chief scientist said.
+
+“Across all of the vaccines, [W.H.O. has seen] high levels of protection against severe disease. That’s the outcome we’re most interested in: protection against death,” Swaminathan affirmed.
+
+
+“Against omicron, many of the vaccines have shown a reduction in efficacy against infection. And that’s why we see a lot of breakthrough infections,” she acknowledged.
+
+“There is some waning which occurs over a period of time. And we’ve seen that there’s a slight drop in the protection. Again, mostly against infection, but also a little bit against the severe disease,” Swaminathan revealed.
+
+Women who received vaccinations against the Chinese coronavirus demonstrated a “delay” in their menstrual cycles of nearly one day “compared to those who were unvaccinated,” according to the findings of a U.S. government-funded study published on Wednesday, Agence France-Presse (AFP) reported.
+
+“COVID-19 [Chinese coronavirus] vaccine was associated with a less than 1-day change in cycle length for both vaccine-dose cycles compared with prevaccine cycles,” according to the study’s results, which were published by the online medical journal Obstetrics & Gynecology on January 5.
+
+“[U]nvaccinated individuals saw no significant change compared with three baseline cycles,” the study’s authors noted.
+
+
+Chief study author Dr. Alison Edelman of the Oregon Health & Science University led a team of U.S. government-funded researchers to conduct the analysis. The scientists examined the menstrual cycles of roughly 4,000 U.S. women aged 18 to 45 years old “with normal cycle lengths (24–38 days) for three consecutive cycles before the first vaccine dose followed by vaccine-dose cycles (cycles 4–6) or, if unvaccinated, six cycles over a similar time period.”
+
+About 2,400 participants in the study were vaccinated against “COVID-19,” or the disease caused by a type of coronavirus called SARS-CoV-2. “COVID-19” is also known as the Chinese coronavirus. Roughly 1,500 unvaccinated women also participated in the menstrual study for comparison. Of the vaccinated women, 55 percent received doses of a coronavirus vaccine manufactured by Pfizer, 35 percent received a version made by Moderna, and seven percent received a Johnson & Johnson vaccine.
+
+Dr. Alison Edelman told the AFP on January 6 she believes the “immune system’s response” to the Chinese coronavirus vaccine may have caused the changes in women’s menstrual cycles observed in her study.
+
+
+“We know that the immune system and the reproductive system are interlinked,” she said.
+
+“A revved-up immune system might have an impact on the hypothalamic-pituitary-ovarian axis,” the doctor continued.
+
+Edelman defined this “axis” as a “highway of how your brain talks to your ovaries, talks to your uterus,” or, put more simply, a woman’s “body clock.”
+
+“Specifically, the production of inflammatory proteins called cytokines appears to disrupt the way this axis regulates the timing of menstrual cycles,” the study’s lead author observed.
+
+“The changes seem most pronounced when vaccination takes place early in the follicular phase, which starts on the first day of the menstrual period (bleeding) and ends when ovulation begins,” Edelman noted.
+
+
+The doctor revealed to AFP that “a subgroup” of participants in her study “who received two injections of the Pfizer or Moderna vaccines during the same cycle, as opposed to two different cycles, saw an average increase in cycle length of two days.”
+
+Pfizer‘s coronavirus vaccine consists of two doses administered 21 days apart. Moderna‘s coronavirus vaccine requires two doses administered 28 days apart. Johnson & Johnson‘s coronavirus vaccine consists of a single dose. Both Pfizer and Moderna use new mRNA technology as the basis for their “COVID-19” vaccines while Johnson & Johnson uses a more established “viral vector” vaccine technology.
+
+“Viral vector vaccines use a modified version of a virus that is different from the virus being targeted to deliver important instructions to our cells [i.e how to fight the targeted virus upon future infection]. The modified version of the virus is called a vector virus,” according to the U.S Centers for Disease Control and Prevention (CDC).
+
+
+“COVID-19” vaccines based on mRNA technology, which did not exist in an authorized form prior to March 2020, “use the genetic sequence or ‘code’ of the antigen [inactivated virus proteins] translated into mRNA,” according to the BBC.
+
+“It’s a ghost of the real thing, fooling the body into creating very real antibodies,” the British broadcaster detailed in November 2021.
+
+“The artificial mRNA itself then disappears, degraded by the body’s natural defences including enzymes that break it down, leaving us with only the antibodies,” the BBC explained.
+
+South African President Cyril Ramaphosa tested positive for an undisclosed strain of the Chinese coronavirus Sunday and was presenting “mild symptoms” of illness as of Monday, Reuters reported.
+
+“President @CyrilRamaphosa appreciates the well wishes he is receiving from various quarters following his COVID-19 [Chinese coronavirus] positive result,” the office of the South African presidency wrote in a Twitter statement posted December 13.
+
+“The President remains in good spirits and continues to present with mild symptoms,” the statement read.
+
+Ramaphosa’s ongoing infection “is causing him to delay a vaccine booster shot which he was scheduled to receive this week,” his office revealed in a separate Twitter statement posted December 13. The office did not specify the brand or type of vaccine he was to receive as a “booster” shot, which is an additional dose of a vaccine after completion of a full vaccine series.
+
+The South African leader was fully vaccinated against the Chinese coronavirus when he tested positive for the disease on December 12.
+
+
+“Ramaphosa, who was given Johnson & Johnson’s vaccine in February, tested positive the same day that he addressed a state memorial to the last leader of South Africa’s white minority government, FW de Klerk, in Cape Town,” according to Reuters.
+
+Johnson & Johnson’s Chinese coronavirus vaccine is a single-dose shot. It works by injecting “a piece of a modified virus that is not the virus that causes COVID-19 [Chinese coronavirus]” into a recipient, according to the U.S. Centers for Disease Control and Prevention (CDC).
+
+“This modified virus is called the vector virus … [which] gives instructions to cells in the body to create an immune response,” the CDC explained in October.
+
+“This response helps protect you from getting sick with COVID-19 [Chinese coronavirus] in the future,” the U.S. public health agency wrote.
+
+Scientists in southern Africa discovered a new variant of “Covid-19” called Omicron in mid-November. Doctors first detected Omicron in Botswana and then in the neighboring country of South Africa in subsequent days, but the Netherlands and Belgium have since revealed that they had samples testing positive for Omicron dating to before the South African officials alerted the World Health Organization (W.H.O.) to their discovery.
+
+“The first cases of the variant were collected in Botswana on 11 November, and the earliest in South Africa was recorded three days later,” the Guardian reported on November 24.
+
+
+Omicron is the latest variant of “Covid-19,” which is the disease caused by a type of coronavirus named SARS-CoV-2. “Covid-19” is also known as the Chinese coronavirus.
+
+Recent data out of southern Africa suggests Omicron may be more contagious than Delta, which was the latest dominant strain of “Covid-19” prior to Omicron’s discovery. The data suggests Omicron is “efficiently transmitting, and probably more efficiently transmitting even than the Delta variant,” Michael Ryan, the executive director of the W.H.O.’s Health Emergencies Programme, told reporters at a press briefing on December 8.
+
+Delta was first detected in India in December 2020 and is currently the most prevalent strain of SARS CoV-2 worldwide. The variant “is believed to be more than twice as contagious as previous variants,” Yale Medicine noted on November 19. Delta has notoriously caused a significant number of “breakthrough” infections, or cases of “Covid-19” in people fully vaccinated against the disease.
+
+A new study published on December 13 by Oxford University found that Omicron, like Delta, may also penetrate the immunity of people fully vaccinated against the Chinese coronavirus.
+
+
+“Researchers from the University of Oxford tested blood samples of people 28 days after their second dose of either the Oxford-AstraZeneca or Pfizer-BioNTech vaccine,” CNBC reported.
+
+“When omicron was introduced to those samples, scientists reported ‘a substantial fall’ in the neutralizing antibodies that fight off Covid compared to the immune responses seen against earlier variants,” the news site relayed.
+
+Some vaccine recipients tested in the study “failed to neutralize [the virus] at all,” according to the Oxford University scientists.
+
+
+“This will likely lead to increased breakthrough infections in previously infected or double vaccinated individuals, which could drive a further wave of infection, although there is currently no evidence of increased potential to cause severe disease, hospitalization or death,” the study’s authors wrote.
+
+It remains unknown which variant of the Chinese coronavirus South African President Ramaphosa contracted on December 11.
+
+Anyone 18 and older will be able to receive the Moderna COVID-19 vaccine this week at Hillsdale High School, according to a campus-wide email from Hillsdale College Director of Health Services Brock Lutz on Tuesday, March 30. However, it is important that students be informed of the risks associated with the COVID-19 vaccine before they take action.
+
+While 55% of 340 Hillsdale students surveyed about the vaccine reported that they would not take it, as of a Feb. 18 Collegian article, raising concerns about the COVID-19 vaccine is taboo in mainstream society and the pressures to submit unquestioningly to the needle are great. 
+
+The inconvenience of daily life without the COVID-19 vaccine is likely to increase dramatically in the near future. According to USA Today, New York will issue the nation’s first vaccination passport, the Excelsior Pass, on April 2. The pass will be used to allow vaccinated people entry to venues like Madison Square Garden, and according to the article, “it already lets people increase the size of a wedding party, or other catered event.” 
+
+The perks of getting the vaccine are hard to resist. With the prospect of being banned from their favorite musician’s concert looming large, America’s youth are likely to agree to the small inconvenience of a vaccine in order to resume a somewhat-normal life. The issue, however, is that mRNA vaccines like the Moderna vaccine being offered to Hillsdale students have never before been approved for use in humans. Behind its innocuous name lie serious problems that must be presented to students before they walk into Hillsdale High on April 2. 
+
+First, students should know that “COVID-19 vaccines have only been given conditional approval for emergency use. In the next two years, it will be reviewed whether their benefits really outweigh their risks,” according to Dr. Sucharit Bhakdi, former chair of the Institute of Medical Microbiology and Hygiene at the Johannes Gutenberg University of Mainz in west-central Germany. 
+
+What’s more, the vaccine is unnecessary for college students — and even for older faculty and staff members. According to the Centers for Disease Control and Prevention, the survival rate for COVID-19 among people aged 20 years and younger is 99.997%, while the rate for those aged 20-49 years is 99.98%. The rate for those aged 50-69 years is 99.5%. Why risk entering yourself in an ongoing experiment for those numbers?
+
+According to former Pfizer Vice President and Chief Science Officer Dr. Mike Yeadon, “protection is needed only by those at notably elevated risk of death from the virus. In those people, there might even be an argument that the risks are worth bearing,” he said. “But those in good health and younger than 60 years, even perhaps a little older, don’t perish from the virus. In this large group, it’s wholly unethical to administer something novel and for which the potential for unwanted effects after a few months is completely uncharacterized.”
+
+Additionally, there are serious health risks associated with the vaccine that the general public has not discussed, according to Yeadon and Bhakdi. For example, Bhakdi asserted that the vaccine increases the risk of blood clotting in those who take it. After the vaccine enters the bloodstream, it binds to cells that line blood vessels and induces them to produce the virus protein. Then, Bhakdi said, “many copies of the virus spike will appear on the cell surface. These may directly bind and activate blood platelets, which will trigger blood clotting.”
+
+Blood clots have the potential to cause serious health problems and even death, Bhakdi warned.
+
+“Triggering clot formation in your vessels is always potentially life-threatening. If clots form at vulnerable sites in the brain, spinal cord, and heart, interruption of blood flow may have irreversible and even fatal effects,” he said.
+
+Another concern stems from the fact that the COVID-19 vaccine causes our cells to produce the virus protein themselves, which is a feature of mRNA vaccines, rather than directly introducing the virus protein into the body like a traditional vaccine would.
+
+“Cells producing the spike protein may be attacked by our own immune system, because the immune system is trained to recognize and destroy cells that produce the virus,” Bhakdi said. “Damage to the blood vessel lining must be expected to cause the blood to clot as well. The fact is likely magnified in individuals receiving their second vaccinations, as well as in patients who have been infected with any coronavirus shortly before or after vaccination.”
+
+Bhakdi suspects that the blood-clotting risks could be responsible for unnecessary deaths, and pose a threat to people of all ages.
+
+Newsweek confirmed in a March 8 article that 970 people had died after receiving the Moderna and Pfizer vaccines. The data was drawn from VAERS, which is a “U.S.-based early warning system for vaccine side-effects,” according to the article.
+
+At the end of the day, whether or not to walk into Hillsdale High and receive the experimental COVID-19 vaccine this Friday is a personal decision that each student must make for himself. However, it’s essential to look at the risks as well as the potential conveniences that may accompany an injection.
+
+MANILA, Philippines — Senators strongly warned yesterday the government against risking the lives of Filipinos and procuring China’s Sinovac vaccine, saying it is not only expensive compared to other brands but also only reportedly 50 percent effective.
+
+Senate Majority Leader Juan Miguel Zubiri and Senate Minority Leader Franklin Drilon in separate statements expressed alarm over reports that Sinovac trials in Brazil showed that the Chinese-made vaccine was only over 50 percent effective. Its maker, Sinovac Biotech Ltd., reportedly has so far withheld data on its trials.
+
+They noted that Pfizer vaccine has a high efficacy rate of 95 percent but has strict cold storage requirements, while the AstraZeneca serum has at least 75 percent effectiveness but with more compliable storing standards.
+
+Zubiri said the country’s search for COVID-19 vaccines must take into account key factors including safety, efficacy, pricing and ease of distribution and implementation.
+
+“All these factors must be harmonized to make sure we deliver to our people the vaccine that is cost effective but is efficient and deliverable. When we say efficient that means a high efficacy rate,” Zubiri said.
+
+“That’s why the plan to get vaccines with only a 50 percent efficacy rate is totally unacceptable and a total waste of our funds and resources. That there’s a 50/50 chance of you getting COVID even after being vaccinated is a joke!” he added.
+
+To stress his point, Zubiri said a 50 percent efficacy could mean one out of two Filipinos jabbed with Sinovac would still be infected with COVID-19 that would be dangerous for senior citizens, frontliners and those with co-morbidities.
+
+He appealed to the National Task Force on COVID-19 to look at the effectiveness of the candidate vaccines “rather than political or geo-political reasons.”
+
+“Safety of our people should come first, not the feelings of our neighboring friends,” Zubiri said.
+
+Drilon said while there is great urgency in procuring vaccines and the government is trying to strike a balance among various key factors, safety and efficacy should be the first and foremost consideration, otherwise, it runs the risk of people refusing the inoculations out of fear.
+
+“We’re talking about the lives and the future of Filipinos here. We cannot accept ‘that will do’ when it comes to vaccines,” Drilon said in Filipino.
+
+He said vaccine czar Secretary Carlito Galvez must consider the reports on the Chinese vaccine carefully and wait for clearer guidelines from the scientific community and other authorizing agencies to determine whether or not Sinovac “is worth offering to our people.”
+
+It is most important, he said, that the government gets a vaccination program started in 2021 with the best possible combination of vaccines it can procure.
+
+“There is a global shortage of vaccines and we should focus on vaccinating our priority segments,” Drilon said.
+
+Herd immunity will require a multi-year vaccination program and, over time, the country can look to inoculating 60 percent to 90 percent of the population.
+
+“But our near-term priority should be to vaccinate our frontliners and highest risk population, which is the first 20 percent,” Drilon said.
+
+Meanwhile, flag carrier Philippine Airlines (PAL) is preparing its fleet to help in the eventual transport of COVID-19 vaccines to the country and around the region.
+
+“The long-awaited global launch of the COVID-19 vaccine contributes to the cautious optimism of the Philippines’ travel and tourism sectors. PAL is readying its fleet of wide-body aircraft for the task of transporting vaccines to the Philippines and around the region,” it said.
+
+Quezon City second district Rep. Precious Castelo earlier urged the government to tap local airlines for the transport and delivery of COVID-19 vaccines in and around the country. – Richmond Mercurio
+
+The Pfizer-BioNTech covid-19 vaccine is “likely” to have been responsible for at least 10 deaths of frail elderly people in nursing homes in Norway, an expert review commissioned by the Norwegian Medicines Agency has concluded.
+
+The expert group was established at the end of February 2021 to look into the cause of the first 100 reported deaths of nursing home residents who had received the Pfizer-BioNTech vaccine. At the time, around 30 000 elderly nursing home residents had been vaccinated.
+
+Although the mortality rate in nursing homes is generally very high and the deaths of some nursing home residents after vaccination was anticipated, the Norwegian Medicines Agency wanted to determine whether the vaccine had possibly hastened any deaths and to gain a clearer understanding of the risks and benefits of its use in frail elderly people.
+
+The review reported on 19 May and concluded that a causal link between the Pfizer-BioNTech vaccine and death was considered “likely” in 10 of the 100 cases, “possible” in 26 cases, and “unlikely” in 59 cases. The remaining five were deemed “unclassifiable.”1
+
+While emphasising considerable uncertainty around its conclusions, the expert group acknowledged a risk that adverse reactions to the vaccines among very frail patients could initiate a cascade of complications, which in the worst case scenario could lead to earlier death.
+
+Extremely frail patients
+“Frail patients can benefit from vaccination because they are at great risk of serious illness and even death if they become infected with the covid-19 virus,” said Sigurd Hortemo, senior medical consultant at the Norwegian Medicines Agency. “Nevertheless, the expert group believes that, for some of these frail patients, common adverse reactions may have contributed to a more serious course of their disease.”
+
+The group noted that more thorough assessment of the benefits and risks of vaccination could have been made for some very frail elderly people, particularly during the first few weeks of the vaccine’s use.  People with a very short life expectancy have little to gain from being vaccinated, it said, noting a genuine risk that the time of death will be brought forward and that they will experience adverse reactions to the vaccine in the last days of their life.
+
+The benefits of vaccination for very frail people with very short life expectancy should therefore be carefully assessed against the associated risks, and it may often be better not to vaccinate, the group recommended. However, the guidelines on risk assessment—issued by the Norwegian Institute of Public Health shortly after the first reported deaths of frail elderly patients after vaccination—were adequate, it said. These advise that doctors should assess such patients individually to determine whether the benefits of vaccination outweigh the side effects. The guidelines recommend that, ahead of vaccination, doctors should consider the benefits and disadvantages of giving the vaccine to extremely frail patients (such as those whose frailty is ranked 8 or 9 on the Clinical Frailty Scale or equivalent) or terminally ill patients.
+
+Preventive measures such as good hydration, medicine reviews, and optimised treatment of comorbid conditions may also reduce the risk of fatal consequences from adverse reactions to vaccines, the expert group added.
+
+Health authorities
+As of 18 May 2021, 155 deaths had been reported in Norway after vaccination with the Pfizer-BioNTech vaccine, and most deaths involved elderly and very frail nursing home residents.2
+
+Pfizer has said in a statement that all decisions on the rollout of vaccine programmes reside with health authorities and that the Norwegian health authorities had previously issued updated recommendations on vaccinating terminally ill and extremely frail patients.
+
+“More than 300 million doses of the Pfizer-BioNTech covid-19 vaccine have been administered globally,” said Pfizer. “Serious adverse events unrelated to, but close in timing to vaccination, are expected to occur at a similar rate in vaccinated individuals as they would in the overall population.”
+
+Only the BioNTech-Pfizer and Moderna vaccines are now part of the covid-19 vaccination programme in Norway. On 11 March officials suspended the use of the AstraZeneca vaccine because of concerns about blood clots, and in April the Norwegian Institute of Public Health recommended no further use of that vaccine.3
+
+Geir Bukholm, director of the Division of Infection Control and Environmental Health at the Norwegian Institute of Public Health, said, “Since there are few people who die from covid-19 in Norway, the risk of dying after vaccination with the AstraZeneca vaccine would be higher than the risk of dying from the disease, particularly for younger people.” As of 25 May, Norway had recorded 782 deaths from covid-19.
+
+The first large real-world study of how vaccines hold up against Omicron found that two shots of Pfizer Inc. and BioNTech SE’s Covid-19 vaccine lowered the risk of hospital admission by 70% for patients infected with the highly mutated variant.
+
+The study, by South Africa’s largest private health insurer Discovery Ltd., found that while Omicron reduced vaccine effectiveness against infection to 33% from 80% for Delta, its effect on protection against hospitalization was less marked, falling to 70% from 93%.
+
+While the study provides important clues about how vaccines hold up against Omicron, it is difficult to draw wide-ranging conclusions from South Africa, which has a much younger population than Europe and the U.S. and also has a different mix of immunity, with high levels of prior infection but a relatively low vaccination rate. For conclusions that may be more relevant for the U.S., health authorities will look closely at the U.K., whose demographic profile and vaccination rates are more like the U.S. and where the variant is already well established.
+
+It comes as many governments rush to roll out booster shots more widely in the hope that—as early studies have suggested—a further shot will shore up protection against Omicron.
+
+“It’s very heartening to see this result and that we still have vaccine effectiveness [against hospital admission] that is still greater than 50%,” said Glenda Gray, president and chief executive officer of the South African Medical Research Council, which collaborated with Discovery.
+
+The study examined 211,610 Covid-19 test results in adults reported since the beginning of September. It used that data to compare vaccine effectiveness during September and October, when Delta was dominant, with the three-week period between Nov. 15 and Dec. 7, when Omicron took hold. Discovery Health insures around 3.7 million people in South Africa.
+
+The study—the largest to provide clues about how the vaccines hold up against Omicron in the real world—suggests that although the new strain can easily infect people who have been fully vaccinated, it is still much less likely to cause serious illness when it does. The research hasn’t yet been published or peer-reviewed in a scientific journal and scientists not involved in the research said the conclusions could change as more data emerges.
+
+The Omicron variant was first identified by scientists in South Africa around three weeks ago and has driven a sharp rise in cases there. It has now been detected in 77 countries across the world, according to the World Health Organization. On Friday, scientists estimated Omicron’s R number in South Africa—a measure of how many people the average infected person goes on to infect—stood at 2.5, higher than any earlier variant.
+
+New daily cases averaged 20,488 for the week ending Dec. 13, nearly double the week before. On Monday, in an indication that a large number of infections are being missed, health authorities said 31% of tests had registered a positive result.
+
+The findings build on earlier, laboratory-based research from various groups around the world examining how well the blood of vaccinated people neutralizes the Omicron variant. Those studies found that antibodies in the blood of people who had received two doses of vaccine were much weaker against Omicron than earlier strains.
+
+Last week, Pfizer executives predicted that the vaccines would hold up better against severe disease because the immune cells that fight the virus once it takes hold could still recognize most parts of Omicron’s spike protein, which the virus uses to enter cells.
+
+Neutralizing antibodies act as the body’s first line of defense, aiming to prevent infection by stopping the virus from entering cells. Other parts of the immune system, such as T-cells, come into play to prevent serious illness once infection takes hold.
+
+The Discovery study also found that protection against infection from Omicron appeared to wane over time in vaccinated people. People who had received their second dose in the two to four weeks before the Omicron period were 56% protected against infection with the new strain. That protection fell to 25% for people who had received their second dose three to four months earlier. In the study, infection referred to a positive PCR test result, so is likely to reflect symptomatic disease, the researchers said.
+
+Protection against severe disease appeared to decline with age, but the researchers cautioned that the data was uncertain and could be complicated by a larger waning effect in older groups, who would have received their shots earlier. The researchers also found that Omicron eroded the protective effect of prior infection.
+
+The study couldn’t examine the real-world effect of a third shot because South Africa only recently approved boosters, and hasn’t yet started rolling them out. But the researchers said it was likely that a booster would strengthen protection against infection. Pfizer and BioNTech last week said a third dose restored antibodies to a level where they could block the Omicron variant in lab tests.
+
+“The vaccines were designed to protect against hospitalization and death,” said Shirley Collie, chief health analytics actuary at Discovery Health. “These breakthrough infections we do expect to see. This is something a boosting strategy would mitigate.”
+
+Separately, the study found that, adjusting for various factors, including age, adults infected with the Omicron variant were 29% less likely to need hospitalization than during the country’s first wave, which was dominated by a strain known as D614G. It also found that, among those who were admitted to hospital, the disease appeared to be less serious, with 5% of hospitalized patients needing intensive care, versus 22% during the Delta wave.
+
+The researchers said they couldn’t determine whether Omicron is inherently less virulent than earlier strains, or whether the lower rate of hospitalization resulted from a high level of immunity in the population from either prior infection or vaccination.
+
+Officials from the World Health Organization on Tuesday also cautioned against premature conclusions that Omicron causes milder disease. And even if it does prove to be a milder variant, the sheer number of cases could lead to a surge in hospitalizations and overwhelm health systems.
+
+“A more transmissible virus can do just as much damage or even more than one that is more severe but less transmissible,” said Bruce Aylward, a senior adviser to WHO Director General Tedros Adhanom Ghebreyesus. “We need to see this over time.”
+
+The South African study also found that children have a 20% higher risk of being admitted to hospital with the virus compared with the first wave, but researchers said the figure may just reflect a higher infection rate among children being admitted for non-Covid care, because hospitals routinely test all admissions.
+
+
+

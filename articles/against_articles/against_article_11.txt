@@ -1,0 +1,61 @@
+Why don’t Covid-19 vaccinations last longer?
+
+Measles shots are good for life, chickenpox immunizations protect for 10 to 20 years, and tetanus jabs last a decade or more. But U.S. officials are weighing whether to authorize Covid-19 boosters for vaccinated adults as soon as six months after the initial inoculation.
+
+The goal of a vaccine is to provide the protection afforded by natural infection, but without the risk of serious illness or death.
+
+“A really good vaccine makes it so someone does not get infected even if they are exposed to the virus,” said Rustom Antia, a biology professor at Emory University who studies immune responses. “But not all vaccines are ideal.”
+
+The three tiers of defense, he said, include full protection against infection and transmission; protection against serious illness and transmission; or protection against serious illness only.
+
+The effectiveness depends on the magnitude of the immune response a vaccine induces, how fast the resulting antibodies decay, whether the virus or bacteria tend to mutate, and the location of the infection.
+
+The threshold of protection is the level of immunity that’s sufficient to keep from getting sick. For every bug, it’s different, and even how it’s determined varies.
+
+“Basically, it’s levels of antibodies or neutralizing antibodies per milliliter of blood,” said Mark Slifka, a professor at Oregon Health & Science University.
+
+(T-cells also contribute to protection, but antibodies are easier to measure.)
+
+A threshold 0.01 international units per milliliter was confirmed for tetanus in 1942 when a pair of German researchers intentionally exposed themselves to the toxin to test the findings of previous animal studies.
+
+“One of them gave himself two lethal doses of tetanus in his thigh, and monitored how well it went,” Dr. Slifka said. “His co-author did three lethal doses.”
+
+Neither got sick.
+
+A threshold for measles was pinned down in 1985 after a college dorm was exposed to the disease shortly after a blood drive. Researchers checked antibody concentrations in the students’ blood donations and identified 0.02 international units per milliliter as the level needed to prevent infection.
+
+With these diseases, the magnitudes of response to the vaccines combined with the antibodies’ rates of decay produce durable immune responses: Measles antibodies decay slowly. Tetanus antibodies decay more quickly, but the vaccine causes the body to produce far more than it needs, offsetting the decline.
+
+“We’re fortunate with tetanus, diphtheria, measles and vaccinia,” Dr. Slifka said. “We have identified what the threshold of protection is. You track antibody decline over time, and if you know the threshold of protection, you can calculate durability of protection. With Covid, we don’t know.”
+
+Historically, the most effective vaccines have used replicating viruses, which essentially elicit lifelong immunity.
+
+Measles and chickenpox vaccines use replicating viruses.
+
+Non-replicating vaccines and protein-based vaccines (such as the one for tetanus) don’t last as long, but their effectiveness can be enhanced with the addition of an adjuvant—a substance that enhances the magnitude of the response.
+
+Tetanus and hepatitis A vaccines use an adjuvant.
+
+The Johnson & Johnson and AstraZeneca Covid-19 vaccines use non-replicating adenovirus and don’t contain an adjuvant. The Pfizer and Moderna messenger RNA Covid-19 vaccines, which work differently, don’t contain any virus at all. 
+
+Complicating things further, viruses and bacteria that mutate to escape the body’s immune response are harder to control.
+
+Measles, mumps, rubella and chickenpox hardly mutate at all, but at least eight variants of SARS-CoV-2, the virus that causes Covid-19, have been found, according to the British Medical Journal.  
+
+“It does make it more complicated for the vaccine to work,” Dr. Slifka said. “You’re chasing multiple targets over time. Flu also mutates. With flu, we’ve adjusted by making a new flu vaccine each year that as closely as possible matches the new strain of flu.”
+
+Flu vaccines can offer protection for at least six months.
+
+Setting aside the complexities of crafting an effective vaccine to combat a shape-shifting virus, some hope has revolved around the possibility of defeating Covid-19 by achieving herd immunity, but, according to Dr. Antia, the way coronaviruses infect the body makes that challenging.
+
+“Vaccines are very unlikely to lead to long-lasting herd immunity for many respiratory infections,” Dr. Antia said. “The herd immunity only lasts for a modest period of time. It depends on how fast the virus changes. It depends on how fast the immunity wanes.”
+
+Part of the problem is that coronaviruses replicate in both the upper and lower respiratory tracts.
+
+“We have good circulation in our lungs and body, but not on the surfaces of our nostrils,” Dr. Slifka said. “We can block severe disease because there are antibodies in the lower respiratory tract.”
+
+But the risk of low-level infections in the upper respiratory tract can persist.
+
+Moving forward, Covid-19 vaccines will be updated to combat variants of the virus, and according to researchers at Imperial College London, the next generation of vaccines might also focus on enhancing immunity in the moist surfaces of the nose and lungs.
+
+In the meantime, avoiding the slippery virus might require another shot.

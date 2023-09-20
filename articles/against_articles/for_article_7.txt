@@ -1,0 +1,64 @@
+Scientists on Wednesday praised the decision by AstraZeneca to suspend its late-stage coronavirus vaccine trials and begin a safety review after learning that a participant had developed a serious neurological condition. Dr. Francis Collins, the director of the National Institutes of Health, testifying at a Senate hearing on Wednesday, said the step “ought to be reassuring.”
+
+The results of the safety review, to be conducted by an independent board of experts, will help determine if the participant’s condition was a reaction to the vaccine candidate or merely coincidental, and are expected to heavily influence whether and when trials might resume.
+
+But many details about the trial’s suspension and the event that triggered it remain murky. Researchers do not yet know what caused the volunteer’s symptoms, how long the evaluation process will take or what the consequences might be.
+
+Part of the review will include generating a timeline of the participant’s symptoms to see if they match up roughly with when the vaccine was administered. The committee will also investigate other potential causes of the symptoms, in a process of elimination.
+
+After determining whether AstraZeneca’s vaccine is the probable cause, experts will advise the company on whether to resume its trials.
+
+Regulatory agencies like the Food and Drug Administration will also likely collect data and give additional input along the way, said Dr. Mark Goldberger, an infectious disease expert at the Global Antibiotic Research and Development Partnership and a former F.D.A. official.
+
+No further doses of the vaccine will be administered in the interim.
+
+In early-stage trials, AstraZeneca’s vaccine candidate, built from an innocuous virus, known to cause common colds in chimpanzees, that was engineered to carry coronavirus genes, yielded promising safety data in people, although several participants experienced mild or moderate side effects including fevers and aches.
+
+But the product was not necessarily responsible for the spate of symptoms experienced by the ailing late-stage trial participant, said Mark Slifka, a vaccine expert at Oregon Health and Sciences University.
+
+More than 10,000 adult volunteers were dosed with AstraZeneca’s vaccine in the company’s Phase 2/3 trial in the United Kingdom, where the participant fell ill. “The larger your study group, the more likely you’ll find an adverse event,” Dr. Slifka said. “This could occur spontaneously.”
+
+Editors’ Picks
+
+Seeking a One-Bedroom in ‘a Quintessential New York Brownstone.’ How Far Would Their Budget Take Them?
+
+My Father Was Abusive. Should I Attend His Memorial Service?
+
+‘If I Go Missing’ Folders for the (Very Unlikely) Possibility That You Do
+A source familiar with the event, who spoke on the condition of anonymity, said in an interview on Tuesday that the afflicted volunteer had experienced symptoms consistent with a condition called transverse myelitis, or inflammation of the spinal cord.
+
+In a statement to reporters on Wednesday, an AstraZeneca spokesperson, Michele Meixell, said that the individual did not have a confirmed case of transverse myelitis. She said that the company’s chief executive, Pascal Soriot, had stated in a phone call reported by STAT “that there is no final diagnosis and that there will not be one until more tests are carried out. Those tests will be delivered to an independent safety committee that will review the event and establish a final diagnosis.”
+
+The company did not respond to a request for clarification about whether transverse myelitis was suspected.
+
+Transverse myelitis is relatively rare, sparking symptoms in roughly 1,400 people each year in the United States, according to the National Institutes of Health. The condition can result in pain, muscle weakness, paralysis or bladder problems. Its root cause is often mysterious, although doctors believe the syndrome generally results when inflammatory responses in the body go awry, sometimes as a reaction to an ongoing or past infection, said Dr. Felicia Chow, a neurologist at the University of California, San Francisco. “It’s not uncommon that we never figure out the cause,” she said.
+
+There has been some past speculation that vaccines might be able to trigger transverse myelitis, she added. A handful of vaccines have previously been tied to a smattering of other autoimmune disorders, including Guillain-Barre syndrome, wherein the immune system attacks the nerves. Such complications, however, are rare.
+
+Both transverse myelitis and Guillain-Barre syndrome have been pinpointed as possible complications of Covid-19.
+
+Although vaccines are designed to be harmless to humans, they must still rouse the body’s defenses to marshal a protective immune response. But if the wrong subsets of cells or molecules are spurred into action, or if the body cannot rein in its own responses, this could set off a cascade that starts to damage healthy tissues, said Dr. Serena Spudich, a neurologist at Yale University.
+
+The suspension appears to mark the second time that AstraZeneca has halted coronavirus vaccine trials because of severe neurological symptoms, according to information sheets uploaded to a clinical trial registry, as reported by Nature News. Another participant developed symptoms of transverse myelitis, researchers reported in July, and was later diagnosed with an “unrelated neurological illness.” After a safety review, trials resumed.
+
+Ms. Meixell, the company spokesperson, confirmed the July pause, saying that the volunteer had “an undiagnosed case of multiple sclerosis, which the independent panel concluded was unrelated to the vaccine.”
+
+Adverse events do occur during vaccine trials, which are explicitly designed to assess such situations to ensure that the products are both safe and effective in a wide range of people. Even if the newly reported symptoms were eventually tied to AstraZeneca’s vaccine, trials could still continue, especially if the case appears to be an outlier.
+
+“This doesn’t necessarily mean the vaccine is harmful,” said Saad Omer, a vaccine expert at Yale University. As things stand, however, “we don’t yet know the implications,” he said.
+
+Complicating matters is the vaccine’s dosing regimen, which involves two injections for each participant, four weeks apart. It is unclear whether the volunteer who experienced symptoms of transverse myelitis began to feel ill after receiving the first or second dose — a factor that could affect how other participants are treated, should the trial resume, Dr. Slifka said.
+
+AstraZeneca representatives did not respond to repeated requests for comment on the specifics of the pause or the measures they might take before attempting to resume trials.
+
+While the expert safety panel and the F.D.A. may independently weigh in as the situation develops, it is typically up to the trial’s sponsor — in this case, AstraZeneca — to continue or end a trial, according to F.D.A. guidance.
+
+If the most recent adverse event is eventually confirmed as another neurological syndrome, “absolutely, they would want to go back and understand the first case better,” Dr. Spudich said. Although the first participant’s multiple sclerosis diagnosis was deemed unrelated to the vaccine, the data could be worth re-evaluating, she said.
+
+There is a possibility, for instance, that a mild, undiagnosed case of multiple sclerosis may have been unmasked or exacerbated by the vaccine. However, it remains unclear whether that first volunteer received a vaccine or placebo, and how AstraZeneca would proceed with participants who have so far received the first dose but not the second.
+
+In an online event on Thursday, Mr. Soriot, AstraZeneca’s C.E.O., said that the company still expected to know by the end of the year whether its vaccine works in people, provided trials are able to resume soon. Such pauses are “very common, actually, and many experts will tell you this,” Mr. Soriot added. “The difference with other vaccine trials is, the whole world is not watching them.”
+
+Although the forecast for AstraZeneca’s vaccine candidate remains hazy, Dr. Goldberger emphasized that “this is a normal part of doing business in therapeutics and vaccines.”
+
+“It’s very important to get safe and effective vaccines out there,” he added. Should safety issues arise if a vaccine is prematurely rushed to approval, “that’s going to affect general trust and willingness to be vaccinated,” he said. “So you’ve got to sort through all of this to the end.”
