@@ -1,0 +1,65 @@
+The year 2020 will enter the history books as the year in which a new deadly coronavirus brought the world to a halt. Pharmaceutical companies jumped to the rescue with major investments in vaccine research and development. Last month, one pharmaceutical company after the other started releasing insights about the efficacy of their candidate vaccines. While these announcements have major implications for the world’s economy in 2021, they also provide valuable lessons for managers who want to use data to make better decisions.
+
+Lesson 1: Big data is often smaller than it appears.
+It is November 9, 6:45 AM EST. Pfizer and BioNTech announce that they have performed an interim analysis of an ongoing Randomized Controlled Trial (RCT) with more than 43,000 volunteers from diverse backgrounds. Their vaccine, they report, was found to be more than 90% effective in preventing Covid-19. That’s impressive — better than the average influenza vaccine, and better than the 50% threshold set by the World Health Organization for an effective vaccine.
+
+How should we evaluate these data?
+
+The study involved more than 43,000 participants. On its face, that seems quite a large sample size — in general, large samples allow greater confidence. But vaccine efficacy is expressed as a percentage, and this can be misleading. To properly evaluate these data, and calibrate your confidence, you need to understand how the vaccine efficacy percentage was derived.
+
+The math is quite simple. First, count the number of people who developed Covid-19 in the vaccinated group. Second, divide that by the number of people who developed it in the placebo group. Third, subtract that quotient from 1, and you’ll get the efficacy rate.
+
+In this study, 8 people in the vaccinated group developed Covid-19, compared to 86 in the placebo group. That’s 8/86, or .093 — which, subtracted from 1, gives you an efficacy rate of 90.7%. Hence “more than 90%.”
+
+The important insight is that it’s not the overall number of participants in the study that is relevant here, but the number of people who developed Covid-19. It doesn’t matter much whether the study involved 40,000 participants, 4,000 participants, or even just 400 participants. What matters is that there are 94 confirmed cases.
+
+One might question whether a total of 94 confirmed cases is enough to make informed decisions? But it is. A ratio of 8/86 in a randomized trial is extremely unlikely to happen due to chance — or any reason other than the vaccine. So these results should give you great confidence that the vaccine efficacy rate exceeds the World Health Organization’s standard of 50%. People are often impressed with data that seems big but underestimate the value of small data.
+
+You need to be wary of the distinction between big and small data in business too. Take this example from marketing. You want to understand the impact of an advertisement campaign on sales. A consultancy firm proposes to do an A/B test. The study will involve 20,000 consumers, half of whom will be randomly selected to see your advertisements. Using the latest technology, the study will track the purchase decisions of all participants in the subsequent month.
+
+A month later, the firm tells you that consumers exposed to your campaign bought 50% more than consumers who were not exposed. The impact of your campaign appears to be more positive than expected. But to properly evaluate this result, you need to realize that conversion is a low-probability event (like contracting Covid-19). If your baseline conversion rate is 1/1000, a 50% lift would correspond to only 15 buyers in the exposed group compared 10 buyers in the unexposed group. That’s not enough data to conclude your advertising had an impact on sales.
+
+When studying low-probability events, data that seems big is often smaller than it appears. For this baseline conversion rate, you should ask the consulting firm to increase the number of consumers participating in the study from 20,000 to about 160,000. A 50% lift would then correspond to 120 purchases in the exposed group compared to 80 purchases in the unexposed group, which should give you much greater confidence that your campaign is indeed effective.
+
+It is not always obvious how to determine whether the size of your data is sufficient. That’s where statistical formulas for significance and power come in. They’re too involved to get into here — but, fortunately, there are many easy-to-use statistical calculators freely available online. Using these calculators will help you to develop your intuitions about data size.
+
+Statistical formulas are only part of the answer, of course. Ultimately, you have to make judgment calls. How confident do you want to be before you roll out an intervention? That depends on the costs and the risks. A 5% chance that your result is a false positive may be acceptable in some situations but not in others (as in the context of vaccination).
+
+Lesson 2: Precision can undermine accuracy.
+It is November 11, two days after the Pfizer/BioNTech press release. The Gamaleya National Research Center for Epidemiology and Microbiology in Moscow announces that in a trial involving 40,000 volunteers, its Sputnik V vaccine has demonstrated 92% efficacy. Five days later, on November 16, Moderna announces that in a trial involving more than 30,000 participants, its vaccine has demonstrated 94.5% efficacy.
+
+Vaccine efficacy is still expressed as a percentage, but something has changed: The language and percentages are now more precise. The Gamaleya Center does not say “above 90%” but “92%.” Moderna does not say “94%” but “94.5%.”
+
+Why?
+
+We cannot be sure, but both companies probably felt that more precision in the percentage would create a greater sense of reliability — and would demonstrate that they had done better than Pfizer. And that’s indeed how stories of these announcements played out in the press. For instance, the Belgian newspaper De Standaard wrote that “the candidate vaccine of the American biotech company Moderna works even better than that of Pfizer.”
+
+Beware precision in this sort of situation. It’s a commonly used tactic in persuasion, but it can threaten your ability to interpret data well and make smart decisions. Data presentations often sacrifice accuracy for precision.
+
+Precision can be beguiling. It somehow feels helpful to know, for example, that according to Interbrand, a global brand consultancy, McDonalds is currently the 8th most valuable brand in the world, worth $42,816,000,000 — and that this year it’s worth 6% less than last year. But it’s simply impossible to rank or estimate the value of brands with this level of precision, and anybody who assumes that it is possible will end up making bad decisions.
+
+How can we improve?
+
+Business, in the end, is social science, and social science is messy. Get comfortable with that. Next time you’re presented with estimates, resist the urge to equate precisely reported numbers with high-quality data. Instead, solicit ranges to gauge confidence in point estimates. You’ll understand what you’re dealing with much better if you know that the efficacy rate of a vaccine ranges between 70% and 95%, or that the value of a brand ranges between $20B and $70B.
+
+Lesson 3: Distinguish between prediction and “post-diction.”
+It is November 23, one week after Moderna’s press release. AstraZeneca presents interim analyses of a study involving more than 11,000 participants. The analyses suggest a vaccine efficacy rate of 70%. That’s lower than the other vaccine candidates. But AstraZeneca has some excellent news to report. Their study used two different dosing regimens — and one of them, the half-dose regimen, performed on a subset of 2,741 participants, showed vaccine efficacy of 90%. That puts its vaccine in roughly the same category of efficacy as the others already discussed.
+
+How should we evaluate these data?
+
+That’s right: We need to consider the absolute numbers. AstraZeneca reported a total of 131 cases. Although they didn’t provide a breakdown at the time, they later revealed that the 90% efficacy rate for the half-dose regimen is based on 33 confirmed cases: three in the vaccinated group, and 30 in the placebo group. Those numbers should give you confidence that AstraZeneca’s vaccine is effective, but to conclude that the half-dose regimen works better than the full-dose regimen would be premature. The number of confirmed cases is still too small to make fine-grained comparisons between subsets of cases within the vaccinated group.
+
+Moreover, it turns out that the variation in dosage regimens was a mistake by a contractor involved in the study. Also, AstraZeneca later admitted to pooling its results from two differently designed clinical trials, one in Britain and the other in Brazil.
+
+AstraZeneca is far from unique in how it handled this situation. Academic and business researchers make similar mistakes all the time. To make good decisions with data, you need to distinguish between prediction and “post-diction.” Prediction means that you first develop a hypothesis, and then you collect and analyze data in order to test it. Post-diction means that you generate a hypothesis after data has been collected while analyzing the data. It dramatically inflates the likelihood of false positives, which has damaging consequences for decision-making.
+
+Consider this situation. After conducting an A/B test, a marketing analyst reports back to you: “Overall, consumers who saw your campaign bought no more than consumers who didn’t see it. However, your campaign worked really well for women over 50. They purchased a whopping 30% more after being exposed to your advertisements.”
+
+That sounds like useful information, and it might be tempting to make marketing decisions based on it. But you should see this for what it is: post-diction. It’s similar to what AstraZeneca did. If you slice data a million ways, you’ll always be able to find some large differences, some of which, purely due to chance, will be statistically significant.
+
+How can we improve?
+
+We should ask data analysts to preregister their analyses. We should also ask them to inform us when they’re reporting the results of exploratory analyses that were conceived after their data has been collected. When you are presented with statistically significant results, try to get a sense of how many other tests were conducted of which you were not informed.
+
+Conclusion
+Data is often hailed as an antidote to the biases of human intuition. But effectively using data for decision-making actually requires that we intelligently harness our intuition. The Covid-19 vaccine trials provide three valuable lessons for managers who want to develop their quantitative intuition: Be wary of big data. Be wary of precision. And beware of post-diction.

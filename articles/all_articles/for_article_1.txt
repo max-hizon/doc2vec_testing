@@ -1,0 +1,39 @@
+The drug maker Pfizer said on Wednesday that its coronavirus vaccine was 95 percent effective and had no serious side effects — the first set of complete results from a late-stage vaccine trial as Covid-19 cases skyrocket around the globe.
+
+The data showed that the vaccine prevented mild and severe forms of Covid-19, the company said. And it was 94 percent effective in older adults, who are more vulnerable to developing severe Covid-19 and who do not respond strongly to some types of vaccines.
+
+Pfizer, which developed the vaccine with its partner BioNTech, said the companies planned to apply to the Food and Drug Administration for emergency authorization “within days,” raising hopes that a working vaccine could soon become a reality.
+
+The trial results — less than a year after researchers began working on the vaccine — shattered all speed records for vaccine development, a process that usually takes years.
+
+“The study results mark an important step in this historic eight-month journey to bring forward a vaccine capable of helping to end this devastating pandemic,” Dr. Albert Bourla, Pfizer’s chief executive, said in a statement.
+
+If the F.D.A. authorizes the two-dose vaccine, Pfizer has said that it could have up to 50 million doses available by the end of the year, and up to 1.3 billion by the end of next year.
+
+However, only about half of its supply will go to the United States this year, or enough for about 12.5 million people — a sliver of the American population of 330 million. Americans will receive the vaccine for free, under a $1.95 billion deal the federal government reached with Pfizer for 100 million doses.
+
+The results align with an early analysis that Pfizer and BioNTech reported last week, which found that the vaccine was more than 90 percent effective. Then on Monday, the drug maker Moderna reported that its vaccine was 94.5 percent effective in an early analysis.
+
+Pfizer and BioNTech’s trial included nearly 44,000 volunteers, half of whom received the vaccine. The other half received a placebo shot of salt water. Then the researchers waited to see how many in each group developed Covid-19.
+
+The companies said that out of 170 cases of Covid-19, 162 were in the placebo group, and eight were in the vaccine group. Out of 10 cases of severe Covid-19, nine had received a placebo.
+
+Pfizer and BioNTech said that the vaccine’s efficacy was consistent across age, race and ethnicity. The most common serious adverse event was fatigue, with 3.7 percent of volunteers reporting tiredness after they took the second dose. Two percent of volunteers reported a headache after the second dose. Older adults reported fewer and milder side effects, the companies said.
+
+“It’s pretty amazing,” said Akiko Iwasaki, an immunologist at Yale University. She said the results in people over 65 were the most promising. “We know from the influenza vaccine that it’s very difficult to achieve protection in this age group with vaccines,” she said, so 94 percent efficacy in that group “is really remarkable.”
+
+Federal health officials have said the first doses of the vaccines will most likely go to groups like health care workers who are at high risk for exposure, as well as to people who are most vulnerable to the disease, such as older people.
+
+Dr. Saad B. Omer, the director of the Yale Institute for Global Health, said the results showing the vaccines protected people from severe disease was also good news, because with such limited availability initially, the first goal will be not to stop transmission of the disease, but to prevent people from becoming extremely ill. “So that is very reassuring,” he said.
+
+He called on Pfizer to quickly release a more detailed analysis of the data — beyond the initial news release — so that scientists could more thoroughly evaluate the results. The companies have said they plan to submit the results for review in a scientific journal, a process that can take weeks or months. “These are not normal times, this is a pandemic, and major policy is being made,” Dr. Omer said. “It’s always better to make policy on scientific data, not a press release.”
+
+In addition to the results of its clinical trial, Pfizer said it was ready to submit to the F.D.A. two months of safety data that the agency had recommended, as well as detailed manufacturing records showing the company can consistently produce high-quality batches of its product. The F.D.A. will review the data and ask an outside panel of vaccine experts to weigh in on the application, a process that could take weeks.
+
+Both Pfizer and Moderna have said the accelerating pace of the pandemic has had the silver lining of speeding up their trials, since volunteers are becoming infected with the virus more quickly.
+
+Pfizer and Moderna have developed vaccines that use a new technology that has never before been approved for human use. Both use a synthetic version of coronavirus genetic material, called mRNA, to program a person’s cells to churn out many copies of a fragment of the virus. That fragment sets off alarms in the immune system and stimulates it to attack if the person is exposed to the real virus.
+
+If the vaccine is authorized, attention will immediately shift to how it will be distributed. The vaccine must be stored at minus 94 degrees Fahrenheit, colder than any other vaccine in development. Pfizer will ship the vaccine in special boxes of 1,000 to 5,000 doses that are stuffed with dry ice and equipped with GPS-enabled sensors. Pfizer’s vaccine can be stored in conventional freezers for up to five days, or in the special coolers for up to 15 days, as long as the dry ice is replenished and the boxes are not opened more than twice a day.
+
+Moderna’s vaccine must also be stored in a freezer long-term, but at minus 4 degrees Fahrenheit. The company said on Monday that its vaccine could be stored at standard refrigerator temperatures of 36 to 46 degrees Fahrenheit for up to 30 days, not seven as previously thought, which could make it easier to store than the Pfizer vaccine.

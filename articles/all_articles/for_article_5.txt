@@ -1,0 +1,35 @@
+If you were to approve a coronavirus vaccine, would you approve one that you only knew protected people only from the most mild form of Covid-19, or one that would prevent its serious complications?
+
+The answer is obvious. You would want to protect against the worst cases.
+
+But that’s not how the companies testing three of the leading coronavirus vaccine candidates, Moderna, Pfizer and AstraZeneca, whose U.S. trial is on hold, are approaching the problem.
+
+According to the protocols for their studies, which they released late last week, a vaccine could meet the companies’ benchmark for success if it lowered the risk of mild Covid-19, but was never shown to reduce moderate or severe forms of the disease, or the risk of hospitalization, admissions to the intensive care unit or death.
+
+To say a vaccine works should mean that most people no longer run the risk of getting seriously sick. That’s not what these trials will determine.
+
+The Moderna and AstraZeneca studies will involve about 30,000 participants each; Pfizer’s will have 44,000. Half the participants will receive two doses of vaccines separated by three or four weeks, and the other half will receive saltwater placebo shots. The final determination of efficacy will occur after 150 to 160 participants develop Covid-19. But that is only if the trials are allowed to run long enough. Pfizer will look at the accumulating data four times, Moderna twice and AstraZeneca once to determine if efficacy has been established, potentially leading to an early end to the trials.
+
+Knowing how a clinical trial defines its primary endpoint — the measure used to determine a vaccine’s efficacy — is critical to understanding the knowledge it is built to discover. In the Moderna and Pfizer trials, even a mild case of Covid-19 — for instance, a cough plus a positive lab test — would qualify and muddy the results. AstraZeneca is slightly more stringent but would still count mild symptoms like a cough plus fever as a case. Only moderate or severe cases should be counted.
+
+There are several reasons this is a problem.
+
+First, mild Covid-19 is far more common than severe Covid-19, so most of the efficacy data is likely to pertain to mild disease. But there is no guarantee that reducing the risk of mild Covid-19 will also reduce the risk of moderate or severe Covid-19.
+
+The reason is that the vaccine may not work equally well in frail and other at-risk populations. Healthy adults, who could form a majority of trial participants, might be less likely to get mild Covid-19, but adults over 65 — particularly those with significant frailty — might still get sick.
+
+This is the case with influenza vaccines, which reduce the risk of mild disease in healthy adults. But there is no solid evidence they reduce the number of deaths, which occur largely among older people. In fact, significant increases in vaccination rates over the past decades have not been associated with reductions in deaths.
+
+Second, Moderna and Pfizer acknowledge their vaccines appear to induce side effects that are similar to the symptoms of mild Covid-19. In Pfizer’s early phase trial, more than half of the vaccinated participants experienced headache, muscle pain and chills.
+
+If the vaccines ultimately provide no benefit beyond a reduced risk of mild Covid-19, they could end up causing more discomfort than they prevent.
+
+Third, even if the studies are allowed to run past their interim analyses, stopping a trial of 30,000 or 44,000 people after just 150 or so Covid-19 cases may make statistical sense, but it defies common sense. Giving a vaccine to hundreds of millions of healthy people based on such limited data requires a real leap of faith.
+
+Declaring a winner without adequate evidence would also undermine the studies of other vaccines, as participants in those studies drop out to receive the newly approved vaccine. There may well be insufficient data to address the aged and underrepresented minorities. There will be no data for children, adolescents and pregnant women since they have been excluded. Vaccines must be thoroughly tested in all populations in which they will be used.
+
+None of this is to say that these vaccines can’t reduce the risk of serious complications of Covid-19. But unless the trials are allowed to run long enough to address that question, we won’t know the answer.
+
+The trials need to focus on the right clinical outcome — whether the vaccines protect against moderate and severe forms of Covid-19 — and be fully completed. It is not too late for the companies to do this, and the Food and Drug Administration, which reviewed the protocols, could still suggest modifications.
+
+These are some of the most important clinical trials in history, affecting a vast majority of the planet’s population. It’s hard to imagine how much higher the stakes can be to get this right. Cutting corners should not be an option.
