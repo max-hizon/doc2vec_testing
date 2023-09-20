@@ -1,0 +1,41 @@
+The first large real-world study of how vaccines hold up against Omicron found that two shots of Pfizer Inc. and BioNTech SE’s Covid-19 vaccine lowered the risk of hospital admission by 70% for patients infected with the highly mutated variant.
+
+The study, by South Africa’s largest private health insurer Discovery Ltd., found that while Omicron reduced vaccine effectiveness against infection to 33% from 80% for Delta, its effect on protection against hospitalization was less marked, falling to 70% from 93%.
+
+While the study provides important clues about how vaccines hold up against Omicron, it is difficult to draw wide-ranging conclusions from South Africa, which has a much younger population than Europe and the U.S. and also has a different mix of immunity, with high levels of prior infection but a relatively low vaccination rate. For conclusions that may be more relevant for the U.S., health authorities will look closely at the U.K., whose demographic profile and vaccination rates are more like the U.S. and where the variant is already well established.
+
+It comes as many governments rush to roll out booster shots more widely in the hope that—as early studies have suggested—a further shot will shore up protection against Omicron.
+
+“It’s very heartening to see this result and that we still have vaccine effectiveness [against hospital admission] that is still greater than 50%,” said Glenda Gray, president and chief executive officer of the South African Medical Research Council, which collaborated with Discovery.
+
+The study examined 211,610 Covid-19 test results in adults reported since the beginning of September. It used that data to compare vaccine effectiveness during September and October, when Delta was dominant, with the three-week period between Nov. 15 and Dec. 7, when Omicron took hold. Discovery Health insures around 3.7 million people in South Africa.
+
+The study—the largest to provide clues about how the vaccines hold up against Omicron in the real world—suggests that although the new strain can easily infect people who have been fully vaccinated, it is still much less likely to cause serious illness when it does. The research hasn’t yet been published or peer-reviewed in a scientific journal and scientists not involved in the research said the conclusions could change as more data emerges.
+
+The Omicron variant was first identified by scientists in South Africa around three weeks ago and has driven a sharp rise in cases there. It has now been detected in 77 countries across the world, according to the World Health Organization. On Friday, scientists estimated Omicron’s R number in South Africa—a measure of how many people the average infected person goes on to infect—stood at 2.5, higher than any earlier variant.
+
+New daily cases averaged 20,488 for the week ending Dec. 13, nearly double the week before. On Monday, in an indication that a large number of infections are being missed, health authorities said 31% of tests had registered a positive result.
+
+The findings build on earlier, laboratory-based research from various groups around the world examining how well the blood of vaccinated people neutralizes the Omicron variant. Those studies found that antibodies in the blood of people who had received two doses of vaccine were much weaker against Omicron than earlier strains.
+
+Last week, Pfizer executives predicted that the vaccines would hold up better against severe disease because the immune cells that fight the virus once it takes hold could still recognize most parts of Omicron’s spike protein, which the virus uses to enter cells.
+
+Neutralizing antibodies act as the body’s first line of defense, aiming to prevent infection by stopping the virus from entering cells. Other parts of the immune system, such as T-cells, come into play to prevent serious illness once infection takes hold.
+
+The Discovery study also found that protection against infection from Omicron appeared to wane over time in vaccinated people. People who had received their second dose in the two to four weeks before the Omicron period were 56% protected against infection with the new strain. That protection fell to 25% for people who had received their second dose three to four months earlier. In the study, infection referred to a positive PCR test result, so is likely to reflect symptomatic disease, the researchers said.
+
+Protection against severe disease appeared to decline with age, but the researchers cautioned that the data was uncertain and could be complicated by a larger waning effect in older groups, who would have received their shots earlier. The researchers also found that Omicron eroded the protective effect of prior infection.
+
+The study couldn’t examine the real-world effect of a third shot because South Africa only recently approved boosters, and hasn’t yet started rolling them out. But the researchers said it was likely that a booster would strengthen protection against infection. Pfizer and BioNTech last week said a third dose restored antibodies to a level where they could block the Omicron variant in lab tests.
+
+“The vaccines were designed to protect against hospitalization and death,” said Shirley Collie, chief health analytics actuary at Discovery Health. “These breakthrough infections we do expect to see. This is something a boosting strategy would mitigate.”
+
+Separately, the study found that, adjusting for various factors, including age, adults infected with the Omicron variant were 29% less likely to need hospitalization than during the country’s first wave, which was dominated by a strain known as D614G. It also found that, among those who were admitted to hospital, the disease appeared to be less serious, with 5% of hospitalized patients needing intensive care, versus 22% during the Delta wave.
+
+The researchers said they couldn’t determine whether Omicron is inherently less virulent than earlier strains, or whether the lower rate of hospitalization resulted from a high level of immunity in the population from either prior infection or vaccination.
+
+Officials from the World Health Organization on Tuesday also cautioned against premature conclusions that Omicron causes milder disease. And even if it does prove to be a milder variant, the sheer number of cases could lead to a surge in hospitalizations and overwhelm health systems.
+
+“A more transmissible virus can do just as much damage or even more than one that is more severe but less transmissible,” said Bruce Aylward, a senior adviser to WHO Director General Tedros Adhanom Ghebreyesus. “We need to see this over time.”
+
+The South African study also found that children have a 20% higher risk of being admitted to hospital with the virus compared with the first wave, but researchers said the figure may just reflect a higher infection rate among children being admitted for non-Covid care, because hospitals routinely test all admissions.
